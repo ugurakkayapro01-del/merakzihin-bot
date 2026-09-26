@@ -49,6 +49,9 @@ def main():
 
     if dry:
         print("DRY RUN — görseller:", outdir)
+        print("=====CONTENT_JSON=====")
+        print(json.dumps(item, ensure_ascii=False))
+        print("=====END=====")
         return
 
     git("add", rel)
