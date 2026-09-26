@@ -1,0 +1,40 @@
+{
+  "topic_key": "uykuya-dalarken-sicrama",
+  "category": "uyku",
+  "headline": "Uykuya Dalarken Neden [[Sıçrarsın]]?",
+  "subline": "Herkeste görülen o gizemli an, aslında bir bilmece",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Uykuya dalarken bedenin aniden sıçraması bilimde [[hipnik jerk]] olarak geçiyor. Oldukça yaygın; insanların büyük bir kısmı hayatında en az bir kez yaşıyor."
+    },
+    {
+      "title": "TEORİ",
+      "body": "Kesin neden hâlâ tam netleşmiş değil. En çok kabul gören açıklamalardan biri şu: Kaslar gevşerken beyin bunu bir [[düşme sinyali]] gibi yorumlayıp bedeni uyarıyor olabilir."
+    },
+    {
+      "title": "NE ZAMAN ARTAR?",
+      "body": "Yorgunluk, kafein, stres ve düzensiz uyku bu sıçramaların sıklığını artırabiliyor. Korkutucu gelse de tamamen zararsız bir refleks olarak kabul ediliyor."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Sen de uykuya dalarken böyle bir sıçrama hissettin mi? Genelde hangi durumlarda daha sık oluyor, hiç fark ettin mi?"
+    }
+  ],
+  "caption": "Tam uykuya dalacakken aniden düşüyormuş gibi hissedip sıçradığın oldu mu? Bu, çoğu insanın yaşadığı ama pek konuşulmayan bir gece tuhaflığı. 🌙\n\nBilim insanları bu ânın tam olarak neden olduğunu hâlâ araştırıyor; ama en güçlü fikir, beynin uykuya geçiş sırasında kas gevşemesini yanlış yorumlayıp bir alarm sinyali göndermesi olabileceği yönünde.\n\nKorkutucu ama zararsız. Belki de zihnimizin uyanıklıktan uykuya geçişi hiç de sandığımız kadar pürüzsüz değil.\n\nSen bu sıçramayı en son ne zaman hissettin?",
+  "hashtags": [
+    "#uyku",
+    "#uykubilimi",
+    "#psikoloji",
+    "#beyin",
+    "#norobilim",
+    "#merakzihin",
+    "#biliyormuydun",
+    "#uykuduzeni",
+    "#gece",
+    "#zihin"
+  ],
+  "source": "Sleep Medicine Reviews ve Mayo Clinic uyku araştırmaları; hipnik jerk (uyku sıçraması) üzerine genel nörofizyoloji literatürü",
+  "slot": "gece",
+  "verify_notes": []
+}
