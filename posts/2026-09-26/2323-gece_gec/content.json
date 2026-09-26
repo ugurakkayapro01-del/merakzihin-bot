@@ -1,0 +1,41 @@
+{
+  "topic_key": "yildiz-isigi-gecmis",
+  "category": "uzay",
+  "headline": "Gökyüzüne Baktığında [[Geçmişe]] Bakarsın",
+  "subline": "Gördüğün yıldız belki artık yok.",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Işık çok hızlı ama sonsuz bir hızda değil, saniyede yaklaşık 300.000 km yol alır. Yıldızlar o kadar uzakta ki ışıkları sana ulaşana dek yıllar, hatta binlerce yıl geçer."
+    },
+    {
+      "title": "ÖRNEK",
+      "body": "Gece gökyüzünde gördüğün bir yıldızın ışığı, örneğin 1000 yıl önce yola çıkmış olabilir. Yani sen o yıldızı değil, [[bin yıl önceki]] hâlini görüyorsun."
+    },
+    {
+      "title": "ÇARPICI GERÇEK",
+      "body": "Bazı yıldızlar ışığı yola çıktıktan sonra sönmüş, hatta patlayarak yok olmuş olabilir. Ama sen hâlâ onun ışığını, yani geçmişten kalan bir izini görürsün."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bu gece gökyüzüne baktığında aslında bir zaman makinesine bakıyorsun. [[Şu an]] diye bir şey, uzayda senin sandığın kadar basit değil."
+    }
+  ],
+  "caption": "Gece gökyüzüne baktığında gördüğün ışık, aslında geçmişten gelen bir mesaj. Çünkü ışığın hızı sonsuz değil, en yakın yıldızlardan bile sana ulaşması yıllar sürüyor. 🌌\n\nBu yüzden astronomlar için 'şimdi' kelimesi düşündüğün kadar basit değil. Uzakta gördüğün her ışık noktası, farklı bir zaman diliminden sana ulaşıyor. Belki o yıldız artık yok, ama ışığı hâlâ yolda.\n\nSen hiç gece gökyüzüne bakıp bunu düşündün mü? Yorumlarda paylaş 🌠",
+  "hashtags": [
+    "#uzay",
+    "#astronomi",
+    "#evren",
+    "#bilim",
+    "#yildizlar",
+    "#zaman",
+    "#merakzihin",
+    "#gokyuzu",
+    "#nasa",
+    "#fizik",
+    "#merakedenzihinbuyur"
+  ],
+  "source": "NASA astronomi eğitim kaynakları; ışık hızının sabitliği (c) temel astrofizik prensibi",
+  "slot": "gece_gec",
+  "verify_notes": []
+}
