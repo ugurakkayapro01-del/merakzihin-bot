@@ -1,0 +1,40 @@
+{
+  "topic_key": "ruyada-mantik-sorgulamama",
+  "category": "uyku",
+  "headline": "Rüyada Neden Hiçbir Şey [[Garip]] Gelmez?",
+  "subline": "Uçarken bile şaşırmamanın bilimsel bir sebebi var",
+  "slides": [
+    {
+      "title": "GÖZLEM",
+      "body": "Rüyanda uçabilirsin, yıllar önce kaybettiğin biriyle konuşabilirsin, aynı anda iki farklı yerde olabilirsin. Ve hiçbiri sana [[tuhaf]] gelmez. Neden?"
+    },
+    {
+      "title": "BEYİNDE NE OLUYOR?",
+      "body": "Beynin mantık yürütme, karar verme ve gerçeklik kontrolünden sorumlu bölgesi olan prefrontal korteks, REM uykusu sırasında büyük ölçüde [[etkinliğini kaybeder]]. Bu bulgu PET görüntüleme çalışmalarıyla defalarca gösterilmiştir."
+    },
+    {
+      "title": "SONUÇ",
+      "body": "Sorgulama merkezi devre dışı kalınca zihin, gördüğü her sahneyi olduğu gibi kabul eder. Uyanıkken saçma bulacağın bir şey, rüyada tamamen [[normal]] görünür."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bugüne kadar gördüğün en tuhaf rüyayı hatırlıyor musun? Rüyanın içindeyken sana ne kadar 'gerçek' geliyordu?"
+    }
+  ],
+  "caption": "Rüyanda kendini bir anda okulda, sonra denizde bulman hiç garip gelmiyor değil mi? İşte bunun nedeni, beynin 'akıl süzgeci' sayılabilecek bölgesinin REM uykusunda sesini kısması.\n\nUyanıkken en ufak tutarsızlığı fark eden zihin, uyurken bu göreve tamamen ara veriyor. Belki de rüyaların bu kadar özgür ve sınırsız hissettirmesinin sırrı tam olarak bu.\n\nSen en son hangi rüyanda 'bu hiç mantıklı değil' diye düşünmeden uyandın? 🌙",
+  "hashtags": [
+    "#uyku",
+    "#ruyalar",
+    "#noropsikoloji",
+    "#beyin",
+    "#psikoloji",
+    "#biliyormuydun",
+    "#merakzihin",
+    "#gecemodları",
+    "#uykubilimi",
+    "#zihin"
+  ],
+  "source": "Hobson & Pace-Schott (2002), Nature Reviews Neuroscience; Braun ve ark. (1998), Brain - REM uykusu sırasında prefrontal korteks aktivitesini inceleyen PET çalışmaları",
+  "slot": "gece",
+  "verify_notes": []
+}
