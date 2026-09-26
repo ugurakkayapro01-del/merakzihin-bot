@@ -34,7 +34,8 @@ def wait_ready(container_id, tries=30):
 
 
 def build_caption(item):
-    tags = " ".join(item["hashtags"][:12])
+    tags = [t for t in item["hashtags"] if "merak" not in t.lower()][:11] + ["#merakzihin"]
+    tags = " ".join(tags)
     return f"{item['caption'].strip()}\n\n{tags}"[:2200]
 
 
