@@ -40,8 +40,10 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
           mkdir -p fonts && cd fonts
-          npm pack @fontsource/anton@5.3.0 @fontsource/inter@5.3.0 >/dev/null
-          for f in *.tgz; do tar xzf "$f"; cp package/files/*latin-400-normal.woff2 package/files/*latin-ext-400-normal.woff2 package/files/*latin-700-normal.woff2 package/files/*latin-ext-700-normal.woff2 package/files/*latin-800-normal.woff2 package/files/*latin-ext-800-normal.woff2 . 2>/dev/null; rm -rf package "$f"; done
+          npm pack @fontsource/anton@5.3.0 @fontsource/inter@5.3.0 >/dev/null 2>&1
+          tar xzf fontsource-anton-5.3.0.tgz && cp package/files/anton-latin-400-normal.woff2 package/files/anton-latin-ext-400-normal.woff2 . && rm -rf package
+          tar xzf fontsource-inter-5.3.0.tgz && cp package/files/inter-latin-700-normal.woff2 package/files/inter-latin-800-normal.woff2 package/files/inter-latin-ext-700-normal.woff2 package/files/inter-latin-ext-800-normal.woff2 . && rm -rf package
+          rm -f *.tgz
           ls
       - name: Zaman dilimini belirle
         id: slot
