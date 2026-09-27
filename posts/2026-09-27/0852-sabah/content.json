@@ -1,0 +1,40 @@
+{
+  "topic_key": "eger-o-zaman-plani-motivasyon",
+  "category": "davranis",
+  "headline": "İrade Değil [[Plan]] Seni Harekete Geçirir",
+  "subline": "Motivasyonu beklemek yerine bunu dene",
+  "slides": [
+    {
+      "title": "SORUN",
+      "body": "Sabah kalkıp \"bugün spor yapacağım\" demek çoğu zaman işe yaramaz. Çünkü motivasyon kendiliğinden gelmez, beklerken gün geçer."
+    },
+    {
+      "title": "BULGU",
+      "body": "Psikolog Peter Gollwitzer'in araştırmalarına göre \"eğer-o zaman\" planı kuran kişiler hedeflerine yaklaşık [[iki kat]] daha sık ulaşıyor."
+    },
+    {
+      "title": "NASIL YAPILIR?",
+      "body": "\"Kahvemi bitirince hemen ayakkabılarımı giyeceğim\" gibi net bir tetikleyici-eylem bağı kur. Beynin o an karar vermesine gerek kalmaz, plan devreye girer."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Yarın sabah hangi anı, hangi eyleme bağlayacaksın? Bir tetikleyici seç, dene ve sonucu gözlemle."
+    }
+  ],
+  "caption": "Sabahları \"bugün kesin yapacağım\" diye söz verip günün sonunda hiçbir şey yapmadığın oluyor mu? Sorun senin isteksizliğin değil, planının olmaması olabilir.\n\nGollwitzer'in yıllar içinde tekrarlanan araştırmaları gösteriyor ki beynimiz \"ne zaman, nasıl\" sorusuna net bir cevap bulduğunda harekete geçmek çok daha kolaylaşıyor. Motivasyon beklemek yerine küçük bir tetikleyici belirlemek işe yarıyor.\n\nSen yarın sabah hangi anı, hangi eyleme bağlayacaksın? 🌱",
+  "hashtags": [
+    "#psikoloji",
+    "#alışkanlık",
+    "#motivasyon",
+    "#sabahrutini",
+    "#davranışbilimi",
+    "#merakzihin",
+    "#kişiselgelişim",
+    "#odaklanma",
+    "#bilim",
+    "#zihin"
+  ],
+  "source": "Gollwitzer, P. M. (1999). Implementation Intentions. American Psychologist; Gollwitzer & Sheeran (2006) meta-analizi",
+  "slot": "sabah",
+  "verify_notes": []
+}
