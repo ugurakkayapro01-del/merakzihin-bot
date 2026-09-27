@@ -1,0 +1,42 @@
+{
+  "topic_key": "koku-hafiza-limbik-baglanti",
+  "category": "beyin",
+  "headline": "Bir [[koku]] seni yıllara götürebilir",
+  "subline": "Beynindeki gizli bir kısayol bunu açıklıyor",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Gördüğün ve duyduğun şeyler beyne ulaşmadan önce talamustan geçip işlenir. Koku ise bu kontrol noktasını [[atlar]], doğrudan hedefine ulaşır."
+    },
+    {
+      "title": "KISAYOL",
+      "body": "Koku sinyalleri direkt amigdala ve hipokampüse gider; yani duygunun ve hafızanın merkezine. Bu yüzden bir koku, sen düşünmeden önce [[hissettirir]]."
+    },
+    {
+      "title": "BİLİMSEL AD",
+      "body": "Buna Proust fenomeni deniyor. Araştırmalar, kokuyla tetiklenen anıların diğer duyusal anılardan daha [[canlı ve duygusal]] hatırlandığını gösteriyor."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Hangi koku seni bir anda başka bir zamana taşıyor? Bir düşün, o kokuyu hissettiğinde neredeydin?"
+    }
+  ],
+  "caption": "Bazen bir koku, hiç beklemediğin bir anda seni yıllar öncesine götürür. Bunun tesadüf olmadığını biliyor muydun?\n\nBeynin, kokuyu diğer duyulardan farklı işler. Görme ve işitme bilgisi önce bir tür \"filtreden\" geçerken, koku doğrudan duygu ve hafıza merkezlerine ulaşır. İşte tam bu yüzden bir koku, düşünmeden önce seni hissettirir.\n\nBu küçük bilgi bile gösteriyor ki beynimiz her an fark etmediğimiz kısayollarla çalışıyor. Sen hangi kokuyla geçmişe gidiyorsun? 👇",
+  "hashtags": [
+    "#beyin",
+    "#nörobilim",
+    "#koku",
+    "#hafıza",
+    "#psikoloji",
+    "#bilim",
+    "#meraklizihin",
+    "#biliyormuydun",
+    "#ilginçbilgiler",
+    "#insanvücudu"
+  ],
+  "source": "Herz, R. S. — koku ve duygusal hafıza araştırmaları; olfaktör sistemin limbik bağlantısı üzerine nörobilim literatürü (hakemli çalışmalar)",
+  "slot": "ogle",
+  "verify_notes": [
+    "Slide 1'de zamir uyumsuzluğu var: 'Gördüklerin ve duyduklarım' ifadesinde şahıs karışıklığı mevcut (senin gördüklerin / benim duyduklarım). Bu bir yazım/dil bilgisi hatası olup bilimsel bir sorun değildir."
+  ]
+}
