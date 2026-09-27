@@ -1,0 +1,42 @@
+{
+  "topic_key": "dunya-donusu-yavaslama-gun-uzamasi",
+  "category": "uzay",
+  "headline": "Bir gün hep [[24 saat]] değildi",
+  "subline": "Dinozorlar zamanında saatler bugünkünden farklı işliyordu",
+  "slides": [
+    {
+      "title": "GERÇEK",
+      "body": "Ay, Dünya'dan her yıl yaklaşık [[3-4 santimetre]] uzaklaşıyor. Bu, tırnaklarının uzama hızına yakın bir mesafe ama etkisi milyonlarca yılda devasa boyutlara ulaşıyor."
+    },
+    {
+      "title": "NEDEN?",
+      "body": "Ay'ın çekim gücü okyanuslarda gelgit yaratırken, bu sürtünme Dünya'nın dönüşünü de yavaşlatıyor. Ay uzaklaştıkça bu fren etkisi azalıyor ve [[gün uzamaya]] devam ediyor."
+    },
+    {
+      "title": "KANIT",
+      "body": "Bilim insanları milyonlarca yıllık fosil mercanlardaki büyüme halkalarını sayarak geçmişte bir yılın daha fazla, daha kısa günden oluştuğunu tespit etti. [[Zaman bile sabit değilmiş.]]"
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bugün saydığın saatler, milyonlarca yıl sonra yaşayacak birinin günüyle aynı uzunlukta olmayacak. Şu an içinde durduğun 'an', aslında hiç durmayan bir akışın parçası."
+    }
+  ],
+  "caption": "Saatine baktığında hep aynı hızda akıyor sanırsın ama Dünya'nın dönüşü yavaş yavaş yavaşlıyor. Ay her yıl birkaç santimetre uzaklaşıyor, biz fark etmesek de günler milyonlarca yılda uzuyor.\n\nBilim insanları bunu fosil mercanların büyüme çizgilerinde bile görebiliyor; geçmişte yıllar daha fazla, günler daha kısaymış. Yani zaman dediğimiz şey, sandığımız kadar sabit bir çerçeve değil 🌙\n\nSen hiç 'an' kavramının bu kadar akışkan olduğunu düşünmüş müydün?",
+  "hashtags": [
+    "#merakzihin",
+    "#uzay",
+    "#bilim",
+    "#dünya",
+    "#zaman",
+    "#astronomi",
+    "#nasa",
+    "#bilgi",
+    "#merak",
+    "#gökbilim"
+  ],
+  "source": "NASA Ay lazerli mesafe ölçümleri (Lunar Laser Ranging); Wells, J.W. (1963) fosil mercan büyüme halkaları çalışması, Nature dergisi",
+  "slot": "gece_gec",
+  "verify_notes": [
+    "Küçük anlatım/noktalama düzeltmeleri yapıldı (bilimsel içerik doğru: Ay'ın uzaklaşma hızı ~3-4 cm/yıl Lunar Laser Ranging ile uyumlu, gelgit sürtünmesi ve fosil mercan halkaları (Wells, 1963) kanıtları geçerli)."
+  ]
+}
