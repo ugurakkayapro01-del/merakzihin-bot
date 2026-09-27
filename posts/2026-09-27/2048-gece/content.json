@@ -1,0 +1,42 @@
+{
+  "topic_key": "gece-duygu-yogunlasmasi",
+  "category": "duygu",
+  "headline": "Gece neden her şey [[daha ağır]] gelir?",
+  "subline": "Aynı sorun, saat 3'te neden dev gibi büyür?",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Yorgun bir beyinde amigdalayı frenleyen prefrontal korteksin kontrolü zayıflar. Duygusal tepkiler [[filtresiz]] çıkar, küçük bir düşünce bile büyür."
+    },
+    {
+      "title": "KANIT",
+      "body": "Uykusuz beyinlerde amigdala aktivitesinin belirgin şekilde arttığı gösterilmiş; bu bölge korku ve endişe tepkilerini yönetir."
+    },
+    {
+      "title": "SONUÇ",
+      "body": "Gündüz sıradan görünen bir mesaj ya da anı, gece [[felaket senaryosuna]] dönüşebilir. Bu bir zayıflık değil, yorgun bir sinir sisteminin doğal tepkisidir."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Gece kurduğun cümleleri sabah tekrar okusan, aynı şeyi mi düşünürdün? Bu farkı fark ettin mi hiç?"
+    }
+  ],
+  "caption": "Gece saat ikide kafanda büyüyen o düşünce, sabah güneşle birlikte küçülüyor mu? Bunun nedeni iradesizliğin değil, yorgun beynin duygularını frenleyememesi.\n\nUyku eksikliği, amigdala ile prefrontal korteks arasındaki dengeyi bozuyor. Sonuç: Aynı olay gece çok daha ağır, çok daha kişisel hissediliyor.\n\nBir dahaki sefere gece bir karar vermeden önce, 'Bu düşünce sabaha kalsa nasıl görünür?' diye sormayı dener misin? 🌙",
+  "hashtags": [
+    "#psikoloji",
+    "#uyku",
+    "#beyin",
+    "#duygular",
+    "#merakzihin",
+    "#biliminsanlari",
+    "#geceduygusu",
+    "#zihin",
+    "#noropsikoloji",
+    "#kendinigozlemle"
+  ],
+  "source": "Yoo, Gujar, Hu, Jolesz & Walker (2007), Current Biology; Walker, Why We Sleep",
+  "slot": "gece",
+  "verify_notes": [
+    "'Bu farkı fark ettiğin oldu mu?' cümlesinde 'fark' kelimesinin tekrarı üslup açısından rahatsız edici; küçük bir düzeltme yapıldı."
+  ]
+}
