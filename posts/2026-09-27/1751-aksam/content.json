@@ -1,0 +1,42 @@
+{
+  "topic_key": "isik-huzmesi-etkisi-sosyal-kaygi",
+  "category": "psikoloji",
+  "headline": "Aslında Kimse Seni O Kadar [[Fark Etmiyor]]",
+  "subline": "Beynin seni sahnenin ortasına koyar, ama...",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Cornell Üniversitesi'nden Thomas Gilovich'in çalışmalarına göre insanlar, başkalarının kendilerini ne kadar fark ettiğini sistematik olarak abartır. Buna [[ışık huzmesi etkisi]] denir."
+    },
+    {
+      "title": "DENEY",
+      "body": "Katılımcılara “utandırıcı” bir tişört giydirilip bir odaya sokuldu. Kişiler, odadakilerin yaklaşık [[yarısının]] fark ettiğini tahmin etti; gerçekte bu oran yaklaşık dörtte birdi."
+    },
+    {
+      "title": "NEDEN OLUYOR?",
+      "body": "Kendi deneyimin senin için o kadar yoğun ki, başkalarının da aynı şeyi fark ettiğini sanırsın. Oysa her insan kendi zihninin içinde kaybolmuş durumda."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bir sonraki kez “herkes bunu fark etti” diye düşündüğünde dur ve sor: Gerçekten mi, yoksa zihnin seni yine [[sahnenin ortasına]] mı koydu?"
+    }
+  ],
+  "caption": "Toplantıda sesin titredi, kahve lekesi gömleğinde ya da yanlış kelimeyi kullandın... Sonra saatlerce o anı düşünüp durdun, değil mi? 😅\n\nAma araştırmalar gösteriyor ki insanların çoğu senin sandığın kadar fark etmiyor bile. Herkes kendi kaygısıyla, kendi anıyla meşgul.\n\nBuna “ışık huzmesi etkisi” deniyor: kendi deneyimini o kadar yoğun hissediyorsun ki, başkalarının da seni aynı şekilde izlediğini sanıyorsun. Oysa gerçek çok daha rahatlatıcı.\n\nSen hiç “herkes fark etti” sanıp sonra kimsenin hatırlamadığını gördüğün bir an yaşadın mı? 👇",
+  "hashtags": [
+    "#psikoloji",
+    "#sosyalpsikoloji",
+    "#davranisbilimi",
+    "#ozguven",
+    "#merakzihin",
+    "#zihinselyanilgi",
+    "#sosyalkaygi",
+    "#farkindalik",
+    "#insanpsikolojisi",
+    "#bilinçalti"
+  ],
+  "source": "Gilovich, Medvec & Savitsky (2000), 'The Spotlight Effect in Social Judgment', Journal of Personality and Social Psychology",
+  "slot": "aksam",
+  "verify_notes": [
+    "Düz tırnak işaretleri (\" \") Türkçe tipografik tırnak (“ ”) ile değiştirildi; küçük noktalama düzeltmeleri yapıldı."
+  ]
+}
