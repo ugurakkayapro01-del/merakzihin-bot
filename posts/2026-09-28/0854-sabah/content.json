@@ -1,0 +1,43 @@
+{
+  "topic_key": "sabah-isigi-sirkadiyen-saat",
+  "category": "beyin",
+  "headline": "Gözlerin [[Işığı]] Görünce Neler Olur?",
+  "subline": "Sabah ışığı beynini nasıl uyandırır?",
+  "slides": [
+    {
+      "title": "GÖZ",
+      "body": "Retinanda ışığa özel olarak duyarlı hücreler var. Bu hücreler görüntü oluşturmaz, sadece [[ışığın varlığını]] beynine bildirir."
+    },
+    {
+      "title": "SAAT",
+      "body": "Bu sinyal beynindeki ana saat bölgesine ulaşır. Suprakiazmatik çekirdek adı verilen bu bölge, vücudundaki günlük ritmi buna göre ayarlar."
+    },
+    {
+      "title": "ETKİ",
+      "body": "Sabah doğal ışığa maruz kalmak uyku hormonu melatonini baskılar ve uyanıklık hissini artırır. Perde arkasında kalman bu süreci geciktirir."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bu sabah uyandığında ilk yaptığın şey neydi, perdeleri açmak mı yoksa telefona bakmak mı? [[İlk birkaç dakika]] belki sandığından daha önemli."
+    }
+  ],
+  "caption": "Uyandığın anda hâlâ yarı uykulu hissetmen tesadüf değil. Gözlerin ışığı algılayana kadar beynin sana 'hâlâ gece' sinyali göndermeye devam ediyor. 🌤️\n\nRetinandaki özel hücreler gördüğün şeyleri değil, sadece ortamdaki ışık miktarını beynine iletiyor. Bu bilgi vücudundaki ana saat görevi gören bölgeye ulaşınca tüm sistem güne göre ayarlanıyor: hormonlar, uyanıklık, hatta ruh halin.\n\nYani sabah ilk yaptığın şey aslında oldukça belirleyici. Sen bu sabah ışıkla mı yoksa ekranla mı uyandın? 👀",
+  "hashtags": [
+    "#psikoloji",
+    "#beyin",
+    "#uyku",
+    "#sirkadiyenritim",
+    "#biyoloji",
+    "#saglik",
+    "#merakzihin",
+    "#bilim",
+    "#gunebaslangic",
+    "#odak"
+  ],
+  "source": "Czeisler ve ark., Harvard Medical School sirkadiyen ritim araştırmaları; NIH (National Institute of General Medical Sciences) sirkadiyen biyoloji özetleri",
+  "slot": "sabah",
+  "verify_notes": [
+    "Slide 3'te 'uyanıklık hissini hızlandırır' ifadesi anlamca biraz zorlama; 'uyanıklık hissini artırır' şeklinde düzeltildi.",
+    "Slide 1'de küçük bir söz dizimi düzeltmesi yapıldı."
+  ]
+}
