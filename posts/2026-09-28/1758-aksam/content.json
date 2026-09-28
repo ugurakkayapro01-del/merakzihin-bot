@@ -1,0 +1,43 @@
+{
+  "topic_key": "temel-atfetme-hatasi",
+  "category": "psikoloji",
+  "headline": "Sen [[şartlar]] yüzünden, o [[huyu]] yüzünden",
+  "subline": "Aynı hatayı yaparız ama sebebimiz hep değişir",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Başkası trafikte kornaya basınca “ne sinirli biri” deriz. Biz basınca “çok geciktim, zorundaydım” deriz. Bu eğilime psikologlar [[temel atfetme hatası]] diyor."
+    },
+    {
+      "title": "KANIT",
+      "body": "1967'de yapılan klasik bir deneyde insanlar, rastgele atanmış bir görevi bile kişinin gerçek görüşüymüş gibi yorumladı. Zorlandığını bilseler de, davranışı [[karaktere]] bağlama isteği güçlü çıktı."
+    },
+    {
+      "title": "İLİŞKİLERDE",
+      "body": "Partnerin unutkanlığını “beni önemsemiyor” diye okursun, kendi unutkanlığını “çok yorgundum” diye açıklarsın. Aynı davranış, farklı terazi. Bu küçük çift standart, ilişkilerde sessizce [[güveni]] yiyip bitirebilir."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bugün birine kızdığında bir an dur. “Ben bunu yapsam, kendime ne derdim?” diye sor. Belki de terazi sandığın kadar adil değil."
+    }
+  ],
+  "caption": "Biri trafikte önüne kesince “ne kaba biri” dersin. Sen aynısını yapınca “zorundaydım, geciktim” dersin. İkisi de aynı davranış, ama sebep hep farklı yerde duruyor 🤔\n\nPsikologlar buna temel atfetme hatası diyor: başkalarının davranışını karakterine, kendimizinkini ise şartlara bağlama eğilimi. Bu küçük çarpıklık, fark etmeden yargılarımızı şekillendiriyor.\n\nEn çok da yakın ilişkilerde kendini gösteriyor - çünkü sevdiklerimizi bile bazen bu çift standartla değerlendiriyoruz.\n\nSen bugün birini yargılarken, aynı şeyi kendine de sorar mısın?",
+  "hashtags": [
+    "#psikoloji",
+    "#sosyalpsikoloji",
+    "#bilişselyanılgı",
+    "#ilişkiler",
+    "#davranış",
+    "#merakzihin",
+    "#özfarkındalık",
+    "#iletişim",
+    "#insanpsikolojisi",
+    "#zihin"
+  ],
+  "source": "Ross, L. (1977), 'The Intuitive Psychologist and His Shortcomings'; Jones & Harris (1967) attitude attribution çalışması",
+  "slot": "aksam",
+  "verify_notes": [
+    "Düz tırnak işaretleri (\") yerine Türkçe tipografik tırnak işaretleri (“ ”) kullanılmalı.",
+    "'KANIT' bölümündeki cümle biraz daha akıcı hale getirilebilir."
+  ]
+}
