@@ -1,0 +1,42 @@
+{
+  "topic_key": "uyku-felci-rem-atoni",
+  "category": "uyku",
+  "headline": "Bazen uyanırsın ama [[hareket edemezsin]]",
+  "subline": "Bu, beynin bir hatası değil, zamanlama sorunu",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "REM uykusunda beyin, rüyaların fiziksel olarak yaşanmasını önlemek için kaslara hareket sinyalini keser. Buna [[kas atonisi]] denir."
+    },
+    {
+      "title": "PEKİ?",
+      "body": "Bazen zihin REM'den uyanır ama bu kas kilidi hemen açılmaz. Birkaç saniye ya da dakika boyunca uyanıksındır, ama bedenin hâlâ uykudadır."
+    },
+    {
+      "title": "HALÜSİNASYON?",
+      "body": "Bu sırada beyin hâlâ yarı rüya hâlinde olduğu için gölgeler, sesler, bir varlık hissi gibi deneyimler eşlik edebilir. Bu [[uyku felci]] olarak bilinir."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Yaygın ve genellikle tehlikesiz bir deneyim. Sen de yaşadıysan, bedeninin sadece [[geç kalan]] bir sinyali beklediğini bilmek nasıl bir his?"
+    }
+  ],
+  "caption": "Gece yarısı uyandığın ama bir türlü kımıldayamadığın oldu mu? 😳 Aslında bu, beynin küçük bir zamanlama farkı.\n\nREM uykusunda beynin, rüyaları fiziksel olarak yaşamamak için kaslarına 'dur' sinyali gönderir. Bazen bilinç bu uykudan önce uyanır, beden ise hâlâ o kilitte kalır.\n\nBirkaç saniye sürse de oldukça ürkütücü hissettirebilir; çünkü zihin yarı rüya hâlinde kalıp gölgeler, sesler ya da bir varlık hissi üretebilir.\n\nSen de böyle bir gece yaşadın mı? Nasıl bir histi, yorumlarda anlat 👇",
+  "hashtags": [
+    "#uyku",
+    "#uykufelci",
+    "#rem",
+    "#beyin",
+    "#noroloji",
+    "#uykubilimi",
+    "#psikoloji",
+    "#bilim",
+    "#gece",
+    "#ruya",
+    "#meraklizihin",
+    "#saglik"
+  ],
+  "source": "American Academy of Sleep Medicine; uyku tıbbı literatürü (REM atonisi ve uyku felci araştırmaları)",
+  "slot": "gece",
+  "verify_notes": []
+}
