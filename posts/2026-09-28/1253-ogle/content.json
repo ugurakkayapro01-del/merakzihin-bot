@@ -1,0 +1,40 @@
+{
+  "topic_key": "ahtapot-uc-kalp-yuzme",
+  "category": "bilim",
+  "headline": "Ahtapotların [[üç]] kalbi var, biri yüzünce durur",
+  "subline": "Yüzmek onlara pahalıya patlıyor",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Ahtapotların iki kalbi sadece solungaçlara kan pompalar, üçüncü kalp ise tüm vücuda kan gönderir. Yani aynı anda [[üç]] kalp birlikte çalışır."
+    },
+    {
+      "title": "PEKİ YA YÜZMEK?",
+      "body": "Ahtapot yüzmeye başladığında vücuda kan pompalayan kalp aşırı yorulur ve neredeyse durma noktasına gelir. Bu yüzden ahtapotlar genelde yüzmek yerine deniz tabanında sürünmeyi tercih eder."
+    },
+    {
+      "title": "MAVİ KAN",
+      "body": "Kanları da bizimkinden farklı: oksijeni taşıyan molekül demir değil bakır içerir. Bu yüzden ahtapotların kanı kırmızı değil, [[mavi]] renktedir."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Ahtapot, enerjisini boşa harcamamak için en zahmetsiz yolu seçiyor. Sen de yorulduğunda bedeninin senden önce karar verdiğini fark ettiğin oldu mu?"
+    }
+  ],
+  "caption": "Ahtapotların üç kalbi olduğunu biliyor muydun? 🐙 İkisi solungaçlara, biri de vücuda kan pompalıyor. Ama asıl ilginç kısım şu: yüzmeye başladıklarında bu üçüncü kalp neredeyse duruyor.\n\nBu yüzden ahtapotlar çoğunlukla yüzmek yerine deniz tabanında sürünmeyi tercih ediyor. Yüzmek onlar için gerçekten yorucu, hatta enerji açısından pahalı bir eylem.\n\nBir de kanları var: kırmızı değil, mavi. Çünkü oksijeni taşıyan molekül demir değil, bakır içeriyor.\n\nSence bizim bedenimiz de bilmediğimiz kadar çok 'kestirme yol' buluyor mudur? 💭",
+  "hashtags": [
+    "#bilim",
+    "#hayvanlar",
+    "#ahtapot",
+    "#deniz",
+    "#biyoloji",
+    "#meraklizihin",
+    "#şaşırtıcıgerçekler",
+    "#doğa",
+    "#okyanus",
+    "#biliyormuydun"
+  ],
+  "source": "NOAA Ocean Service; cephalopod physiology literature (deniz biyolojisi ders kaynakları)",
+  "slot": "ogle",
+  "verify_notes": []
+}
