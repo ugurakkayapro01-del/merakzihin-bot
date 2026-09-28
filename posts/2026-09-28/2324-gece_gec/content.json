@@ -1,0 +1,42 @@
+{
+  "topic_key": "dunyanin-gizli-hizi-hareketsizlik-yanilsamasi",
+  "category": "uzay",
+  "headline": "Şu an [[hiç hareket etmiyor]] gibisin, değil mi?",
+  "subline": "Aslında saatte binlerce kilometre hızla uçuyorsun.",
+  "slides": [
+    {
+      "title": "SANDIĞIN",
+      "body": "Şu an otururken, bu yazıyı okurken kendini tamamen sabit hissediyorsun. Yerinde duruyormuşsun gibi gelir. Oysa fizik bunun tam tersini söylüyor."
+    },
+    {
+      "title": "GERÇEK",
+      "body": "Dünya kendi ekseni etrafında dönüyor; bu dönüş, ekvatorda yaklaşık saatte [[1.670 kilometre]] hıza denk geliyor. Aynı anda Güneş çevresinde de saatte yaklaşık 107.000 kilometre hızla ilerliyorsun."
+    },
+    {
+      "title": "DAHA DA HIZLI",
+      "body": "İşin ilginç yanı, Güneş sistemi de sabit değil. Samanyolu'nun merkezi etrafında saatte yaklaşık [[828.000 kilometre]] hızla dönüyor. Sen hiç durmuyorsun, hiç duramıyorsun."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Evrende gerçek anlamda 'sabit' bir nokta yok, her şey bir şeye göre hareket hâlinde. Hayatında da 'yerinde saydığını' düşündüğün anlar, belki fark etmediğin bir hareketin parçasıdır."
+    }
+  ],
+  "caption": "Sabah kahveni içerken, telefonuna bakarken kendini kıpırdamıyormuş gibi hissedersin. Oysa o anda bile Dünya seni saatte binlerce kilometre hızla taşıyor, sen de Güneş'le birlikte Samanyolu'nun içinde sürükleniyorsun. 🌍\n\nEvrende gerçek anlamda hareketsiz bir nokta yok; her şey bir referans noktasına göre hareket ediyor. Bu da 'durgunluk' dediğimiz şeyin aslında bir yanılsama olabileceğini gösteriyor.\n\nBazen hayatta da öyle değil mi? Yerinde saydığını sandığın dönemler, aslında görünmeyen bir değişimin ortasında olabilir. Sence şu an hangi 'görünmez hareketin' içindesin?",
+  "hashtags": [
+    "#merakzihin",
+    "#uzay",
+    "#astronomi",
+    "#bilim",
+    "#dunya",
+    "#samanyolu",
+    "#evren",
+    "#bilimseverler",
+    "#zihinaçan",
+    "#şaşırtıcıgerçekler"
+  ],
+  "source": "NASA ve temel astronomi verileri (Dünya'nın dönüş ve yörünge hızları, Güneş sisteminin Samanyolu içindeki galaktik hareket hızı)",
+  "slot": "gece_gec",
+  "verify_notes": [
+    "Slide 2'deki cümlede küçük bir anlatım bozukluğu var (\"bu yaklaşık saatte\" ifadesi karışık); düzeltildi."
+  ]
+}
