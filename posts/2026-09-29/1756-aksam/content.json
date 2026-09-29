@@ -1,0 +1,43 @@
+{
+  "topic_key": "sadece-maruz-kalma-etkisi",
+  "category": "davranis",
+  "headline": "Neden [[tanıdık]] olanı daha çok seversin?",
+  "subline": "Bir şeye ne kadar çok bakarsan, o kadar sevilir.",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "1968'de psikolog Robert Zajonc, insanlara birkaç kez gösterilen yabancı yüzleri ve kelimeleri inceledi. Katılımcılar, sadece [[daha önce gördükleri]] için o uyaranları daha olumlu değerlendirdi. Buna 'sadece maruz kalma etkisi' deniyor."
+    },
+    {
+      "title": "NASIL ÇALIŞIR?",
+      "body": "Beynin tekrar tekrar karşılaştığı şeyleri işlemesi kolaylaşır. Bu kolaylık hissi, beyin tarafından güvenli ve tanıdık olarak yorumlanır. 'Hiçbir tehlike yok' sinyali, zamanla [[sıcaklık ve sevgi]] hissine dönüşür."
+    },
+    {
+      "title": "GÜNLÜK HAYATTA",
+      "body": "Başta sevmediğin bir şarkıyı sık çalınca sevmeye başlaman, sürekli gördüğün bir reklamın markasına güvenmen, zamanla ısındığın bir yüz... hepsi aynı [[basit tekrarın]] eseri olabilir."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bir şeyi gerçekten kendi seçimin olduğu için mi seviyorsun, yoksa sadece ona çok mu maruz kaldın? Bu akşam çevrendekilere bakarken bunu kendine bir sor."
+    }
+  ],
+  "caption": "Bazen bir şarkıyı ilk duyduğunda hiç beğenmezsin, ama radyoda birkaç kez çalınca aklından çıkmaz olur. Ya da her gün gördüğün bir yüz, zamanla sana daha güvenilir gelir. Bunun arkasında tercihin değil, tekrarın olduğu bir psikolojik etki var. 🧠\n\nPsikolog Robert Zajonc'un 1968'de yaptığı ve sonrasında yüzlerce kez tekrarlanan araştırmalar, beynimizin tanıdık olanı güvenli, güvenli olanı da iyi olarak kodladığını gösteriyor. Yani sevgi bazen seçim değil, sadece [[alışkanlık]].\n\nPeki sence hayatındaki tercihlerin ne kadarı gerçekten senin, ne kadarı sadece çok karşına çıktığı için? 💭",
+  "hashtags": [
+    "#psikoloji",
+    "#sosyalpsikoloji",
+    "#bilisselyanilgi",
+    "#davranisbilimi",
+    "#merakedenzihin",
+    "#biliyormuydun",
+    "#zihin",
+    "#beyin",
+    "#insandavranisi",
+    "#farkindalik",
+    "#bilim"
+  ],
+  "source": "Zajonc, R.B. (1968), 'Attitudinal Effects of Mere Exposure', Journal of Personality and Social Psychology",
+  "slot": "aksam",
+  "verify_notes": [
+    "'Beynin tarafından' ifadesi dil bilgisi açısından hatalı; doğrusu 'beyin tarafından' olmalı (özne eki gereksiz kullanılmış)."
+  ]
+}
