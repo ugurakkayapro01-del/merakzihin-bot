@@ -1,0 +1,42 @@
+{
+  "topic_key": "ruya-unutma-noradrenalin",
+  "category": "uyku",
+  "headline": "Rüyaların Neden [[Uçup Gider]]?",
+  "subline": "Gördüğün onca rüya nereye kayboluyor?",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "REM uykusunda beynin görsel ve duygusal bölgeleri aktifken, hafızayı kalıcı hale getiren [[noradrenalin]] seviyesi neredeyse sıfıra iner. Yaşananlar kaydedilmeden akıp gider."
+    },
+    {
+      "title": "NASIL?",
+      "body": "Uyandığın andaki birkaç dakika kritik. Beyin o kısa sürede rüyayı hatırlama ile hafızaya atma arasında bir yarış yaşar; çoğu zaman rüya kaybeder."
+    },
+    {
+      "title": "PEKİ YA HATIRLADIKLARIN?",
+      "body": "Sabaha karşı uyandığın anlarda gördüğün rüyaları daha çok hatırlarsın çünkü REM döngüsü sona ererken beyin kimyası toparlanmaya başlar, [[kayıt penceresi]] kısa süreliğine açılır."
+    },
+    {
+      "title": "SEN NE KADAR HATIRLIYORSUN?",
+      "body": "Bu gece uyanır uyanmaz gördüğün rüyayı hemen aklından geçirmeyi dene. Birkaç dakika sonra hâlâ orada mı, yoksa şimdiden siliniyor mu?"
+    }
+  ],
+  "caption": "Bazı geceler bir rüyanın içinde uyanıp saniyeler içinde her şeyi unuttuğunu fark etmişsindir. Bu, hafızanın bozuk çalışması değil; beynin REM uykusunda çalışma şeklinin doğal bir sonucu.\n\nUyku araştırmaları, REM sırasında hafızayı kalıcı kılan kimyasalların baskılandığını gösteriyor. Yani rüyalar aslında kaydedilmek üzere tasarlanmamış; sadece o an için yaşanıyor.\n\nSen rüyalarını genelde hatırlar mısın, yoksa uyanır uyanmaz mı kaybolur? 🌙",
+  "hashtags": [
+    "#uyku",
+    "#ruyalar",
+    "#noropsikoloji",
+    "#beyin",
+    "#merakzihin",
+    "#biliyormuydun",
+    "#uykubilimi",
+    "#zihin",
+    "#gece",
+    "#hafiza"
+  ],
+  "source": "Matthew Walker, Why We Sleep; REM uykusu ve nöromodülatör aktivitesi üzerine nörobilim araştırmaları (Hobson & Pace-Schott, Nature Reviews Neuroscience)",
+  "slot": "gece",
+  "verify_notes": [
+    "\"NASIL?\" slaytında özne-yüklem uyumsuzluğu vardı: \"Beynin ... yarış yaşar\" ifadesi dil bilgisi açısından hatalıydı, \"Beyin ... yarış yaşar\" olarak düzeltildi."
+  ]
+}
