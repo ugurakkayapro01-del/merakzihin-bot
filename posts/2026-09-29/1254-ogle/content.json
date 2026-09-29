@@ -1,0 +1,40 @@
+{
+  "topic_key": "kalbin-kendi-elektrigi-beyinden-bagimsiz",
+  "category": "vucut",
+  "headline": "Kalbin [[Beyinden]] İzin Almadan Attığını Biliyor muydun?",
+  "subline": "Kalbinin kendi elektrik sistemi olduğunu duydun mu?",
+  "slides": [
+    {
+      "title": "GERÇEK",
+      "body": "Kalbinin sağ atriumunda küçük bir hücre grubu var: [[sinoatrial düğüm]]. Bu hücreler kendi başına elektrik üretir, beyinden emir beklemez."
+    },
+    {
+      "title": "NASIL?",
+      "body": "Bu özel hücreler düzenli aralıklarla kendiliğinden elektriksel uyarı oluşturur. Bu uyarı kalbin kaslarına yayılır ve kalp bu sayede düzenli bir ritimle kasılır."
+    },
+    {
+      "title": "KANIT",
+      "body": "Nakil sırasında bedenden ayrılan bir kalp, uygun sıvı ve oksijen sağlanan bir ortamda, sinir bağlantısı tamamen kesilmiş haldeyken bile bir süre kendi başına atmaya devam edebilir."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Vücudunun, senin hiç fark etmeden sürdürdüğü kaç sistemi olduğunu düşündün mü? Belki de en sadık çalışanın, senden hiçbir emir beklemiyor."
+    }
+  ],
+  "caption": "Kalbini düşün: her an, her gün, sen fark etmeden çalışıyor. Ama asıl şaşırtıcı olan şu — kalbinin bu ritmi tutması için beynin ona sürekli talimat vermesine gerek yok. 🫀\n\nKalbin içinde, sağ atriumda yer alan sinoatrial düğüm adlı küçük bir hücre grubu, kendi elektriksel sinyalini üretiyor ve kalbi çalıştırıyor. Bu yüzden bazı durumlarda sinir bağlantısı kesilmiş bir kalp bile, doğru koşullar sağlandığında kısa süre kendi başına atabiliyor.\n\nBu küçük bilgi, vücudumuzun ne kadar özerk ve akıllı sistemlerle dolu olduğunu bir kez daha gösteriyor. Belki de içimizde fark etmediğimiz çok daha fazla 'kendi başına çalışan' mekanizma var.\n\nSence bedenin hakkında bilmediğin kaç gerçek daha var? 💭",
+  "hashtags": [
+    "#merakzihin",
+    "#bilim",
+    "#vücut",
+    "#kalp",
+    "#fizyoloji",
+    "#insanvücudu",
+    "#şaşırtıcıgerçekler",
+    "#biliyormuydun",
+    "#anatomi",
+    "#bilgi"
+  ],
+  "source": "Guyton & Hall Tıbbi Fizyoloji; American Heart Association (AHA) kardiyak elektrofizyoloji kaynakları",
+  "slot": "ogle",
+  "verify_notes": []
+}
