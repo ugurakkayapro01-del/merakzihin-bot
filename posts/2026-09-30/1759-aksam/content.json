@@ -1,0 +1,42 @@
+{
+  "topic_key": "capa-etkisi-ilk-sayi",
+  "category": "davranis",
+  "headline": "İlk gördüğün sayı [[kararını]] çalar",
+  "subline": "Alakasız bir rakam bile seni yönlendirebilir",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Zihnin karar verirken boşlukta kalmak istemez. Eline geçen ilk bilgiyi otomatik olarak bir [[referans noktası]] yapar, sonraki her şeyi ona göre tartar."
+    },
+    {
+      "title": "DENEY",
+      "body": "Kahneman ve Tversky bir çarkıfelek çevirtip rastgele bir sayı gösterdi, sonra alakasız bir soru sordu. Yüksek sayı görenler daha yüksek, düşük sayı görenler daha düşük tahmin etti."
+    },
+    {
+      "title": "GÜNLÜK HAYATTA",
+      "body": "Bir mağazada önce yüksek fiyatlı ürünü görmen, sonrakini [[ucuz]] hissettirir. Bir pazarlıkta ilk teklifi veren, çoğu zaman sonucu şekillendiren taraf olur."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bir sonraki alışverişinde ya da tartışmada, aklına ilk düşen sayının veya fikrin nereden geldiğini bir sor kendine. Gerçekten senin mi, yoksa sana [[gösterilen]] mi?"
+    }
+  ],
+  "caption": "Bazen bir kararın aslında hiç senin olmadığını fark edersin. İlk gördüğün rakam, ilk duyduğun teklif, zihninde sessizce bir çapa gibi yerleşir ve sonraki her şeyi ona göre değerlendirirsin.\n\nBu o kadar güçlü bir etki ki, tamamen alakasız bir sayı bile kararlarını değiştirebiliyor. Pazarlıkta ilk teklifi veren kişi genelde avantajlı çıkar, çünkü tartışmanın sınırlarını o çizmiş olur.\n\nSen hiç sonradan \"neden bu kadar yüksek bir fiyata razı oldum\" diye düşündüğün bir an yaşadın mı? 🤔",
+  "hashtags": [
+    "#psikoloji",
+    "#davranis",
+    "#capaetkisi",
+    "#karar",
+    "#bilişsel",
+    "#sosyalpsikoloji",
+    "#merakzihin",
+    "#bilim",
+    "#zihin",
+    "#farkindalik"
+  ],
+  "source": "Tversky & Kahneman, 1974, Science, 'Judgment under Uncertainty: Heuristics and Biases'",
+  "slot": "aksam",
+  "verify_notes": [
+    "Hashtag listesinde '#biliscsel' yazım hatası var, doğrusu '#bilişsel' olmalı."
+  ]
+}
