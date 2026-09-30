@@ -1,0 +1,42 @@
+{
+  "topic_key": "uykusuzluk-amigdala-duygusal-tepki",
+  "category": "uyku",
+  "headline": "Uykusuz bir gece [[duygularını]] değiştirir",
+  "subline": "Az uyuyunca neden her şeye aşırı tepki verirsin?",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Uykusuz kaldığında beynindeki amigdala, yani tehdit ve duygu merkezi, normalden çok daha [[hassas]] hale gelir. Küçük bir olay bile sana büyük bir tehdit gibi hissettirebilir."
+    },
+    {
+      "title": "FREN SİSTEMİ",
+      "body": "Normalde prefrontal korteks amigdalayı dengeler, aşırı tepkini frenler. Ama uykusuzlukta bu iki bölge arasındaki bağlantı zayıflar. Fren boşalır, duygu ham haliyle dışarı çıkar."
+    },
+    {
+      "title": "GÖRÜNTÜLEME NE GÖSTERDİ?",
+      "body": "Beyin görüntüleme çalışmalarında, bir gece uykusuz kalan kişilerin amigdalası duygusal görüntülere karşı dinlenmiş kişilere göre çok daha [[şiddetli]] tepki verdi."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Az uyuduğun bir günün sonunda, normalde önemsemeyeceğin bir şeye sinirlendiğin oldu mu? Belki de sorun o şey değil, o geceydi."
+    }
+  ],
+  "caption": "Az uyuduğun bir gecenin ardından her şeyin daha ağır, daha sinir bozucu geldiğini fark ettin mi? Bu bir tesadüf değil.\n\nBeynin duygu merkezi olan amigdala, uykusuzlukta adeta frenleri boşalmış bir araç gibi çalışır. Normalde onu dengeleyen prefrontal korteks bağlantısı zayıflayınca, en küçük olay bile sana devasa bir tehdit gibi hissettirebilir.\n\nYani bazen kızgın olduğun şey aslında o kadar da büyük değildir; büyük olan, o gece kaç saat uyuduğundur 🌙\n\nSen de uykusuz kaldığın bir günde kendini daha alıngan hissettin mi?",
+  "hashtags": [
+    "#psikoloji",
+    "#uyku",
+    "#beyin",
+    "#duygular",
+    "#nörobilim",
+    "#merakzihin",
+    "#biliyormuydun",
+    "#zihinsağlığı",
+    "#uykubilimi",
+    "#amigdala"
+  ],
+  "source": "Yoo, S.S. ve ark. (2007), 'The human emotional brain without sleep – a prefrontal amygdala disconnect', Current Biology; Walker, Why We Sleep",
+  "slot": "gece",
+  "verify_notes": [
+    "Caption içinde 'hissettirilebilir' kelimesi yanlış çatı kullanımı içeriyor (pasif yapıya gerek yok); 'hissettirebilir' olmalı."
+  ]
+}
