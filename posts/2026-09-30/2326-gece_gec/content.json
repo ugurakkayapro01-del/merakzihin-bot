@@ -1,0 +1,40 @@
+{
+  "topic_key": "galaktik-yil-gunes-sistemi-turu",
+  "category": "uzay",
+  "headline": "Güneş sistemi [[galaksiyi]] bir kez bile turlamadı",
+  "subline": "Şu an bulunduğun yer, evrende ilk kez",
+  "slides": [
+    {
+      "title": "NASIL?",
+      "body": "Güneş sistemimiz, Samanyolu'nun merkezi etrafında saniyede yaklaşık 230 kilometre hızla dönüyor. Yani hiç fark etmesen de sürekli dev bir yörüngede yol alıyorsun."
+    },
+    {
+      "title": "NE KADAR SÜRÜYOR?",
+      "body": "Bu turun tamamlanması yaklaşık [[230 milyon yıl]] alıyor. Gökbilimciler buna \"galaktik yıl\" diyor. İnsanlık tarihi bu sürenin yanında bir göz kırpması bile değil."
+    },
+    {
+      "title": "SON TUR NE ZAMANDI?",
+      "body": "Güneş sistemi bugünkü konumundan son geçtiğinde, Dünya'da dinozorlar henüz ortaya çıkmamıştı. O günden bugüne bu noktaya bir daha hiç dönmedik."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Şu an içinde bulunduğun kozmik konum, evrenin tarihinde daha önce hiç yaşanmadı ve bir daha asla tekrarlanmayacak. Bunu bilmek \"şimdi\"yi sana nasıl hissettiriyor?"
+    }
+  ],
+  "caption": "Galakside sabit durduğunu mu sanıyordun? Aslında Güneş sistemi, içindeki her şeyle birlikte Samanyolu'nun merkezi etrafında baş döndürücü bir hızla dönüyor. Bu turu tamamlamak öyle uzun sürüyor ki, en son bu noktadan geçtiğimizde Dünya'da dinozorlar bile yoktu.\n\nYani şu an oturduğun, yürüdüğün, nefes aldığın bu kozmik konum, evrenin 13,8 milyar yıllık tarihinde bir daha asla yaşanmayacak. Bu düşünce biraz baş döndürücü değil mi? 🌌\n\nSence bu kadar geçici ve tekrarsız bir anda yaşadığını bilmek, günü nasıl geçirdiğini değiştirir mi?",
+  "hashtags": [
+    "#uzay",
+    "#astronomi",
+    "#bilim",
+    "#evren",
+    "#samanyolu",
+    "#galaksi",
+    "#meraklızihin",
+    "#bilimgerçekleri",
+    "#kozmoloji",
+    "#zamanalgisi"
+  ],
+  "source": "NASA astronomi verileri; galaktik yıl kavramı (Samanyolu'nun dönüş periyodu yaklaşık 225-250 milyon yıl olarak kabul edilir)",
+  "slot": "gece_gec",
+  "verify_notes": []
+}
