@@ -1,0 +1,40 @@
+{
+  "topic_key": "taze-baslangic-etkisi",
+  "category": "davranis",
+  "headline": "Her Sabah Aslında Bir [[Sıfırlama]] Noktası",
+  "subline": "Zihnin takvimi nasıl fırsata çevirir?",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Araştırmacılar Google arama verilerini ve spor salonu kayıtlarını incelemiş: insanlar pazartesi günlerinde, ayın ilk gününde ya da doğum günlerinde hedeflerine yönelik davranışlarda belirgin artış gösteriyor. Buna [[taze başlangıç etkisi]] deniyor."
+    },
+    {
+      "title": "NASIL İŞLİYOR?",
+      "body": "Zihin, takvimsel dönüm noktalarını bir çizgi gibi görür. Geçmişteki aksaklıkları 'eski ben'e, yeni günü ise daha [[temiz bir sayfaya]] ait sayar. Bu zihinsel ayrım, motivasyonu geçici olarak yükseltir."
+    },
+    {
+      "title": "DİKKAT",
+      "body": "Bu etki kalıcı bir değişim garantisi değil, yalnızca bir başlangıç itkisi. Araştırmacılar, bu itkinin günler içinde sönebileceğini, kalıcılık için küçük ve somut adımların gerektiğini belirtiyor."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bugünü, geçen haftanın uzantısı değil de yeni bir sayfa gibi görsen ne değişirdi? Zihnin hangi 'eski'yi bırakıp hangi 'yeni'ye yer açabilir?"
+    }
+  ],
+  "caption": "Pazartesileri, ayın ilk gününü ya da doğum günlerini neden daha 'hazır' hissederiz? Araştırmacılar bunun tesadüf olmadığını gösteriyor: zihnimiz takvimsel dönüm noktalarını bir çeşit sıfırlama noktası olarak algılıyor ve bu, kısa süreliğine motivasyonumuzu artırıyor. 🌅\n\nAma bu etkinin sihirli bir değişim garantisi olmadığını bilmek önemli. İtki geçicidir, kalıcı olan şey attığın küçük adımlardır.\n\nSen bugünü nasıl bir 'yeni sayfa' gibi görebilirsin? Yorumlarda paylaş.",
+  "hashtags": [
+    "#psikoloji",
+    "#merakzihin",
+    "#davranisbilimi",
+    "#motivasyon",
+    "#alışkanlık",
+    "#sabahrutini",
+    "#zihin",
+    "#kişiselgelişim",
+    "#biliyormusun",
+    "#farkındalık"
+  ],
+  "source": "Dai, Milkman & Riis (2014), 'The Fresh Start Effect: Temporal Landmarks Motivate Aspirational Behavior', Management Science (University of Pennsylvania, Wharton)",
+  "slot": "sabah",
+  "verify_notes": []
+}
