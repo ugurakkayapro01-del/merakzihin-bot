@@ -1,0 +1,43 @@
+{
+  "topic_key": "rem-uykusu-duygusal-terapi",
+  "category": "uyku",
+  "headline": "Gece zihnin sana [[terapi]] yapıyor",
+  "subline": "REM uykusu acı veren anıları nasıl yumuşatır?",
+  "slides": [
+    {
+      "title": "NASIL?",
+      "body": "REM uykusunda beynin duygu merkezleri aktif ama bir şey eksik: stres hormonu [[noradrenalin]] bu evrede oldukça düşük seviyede salgılanıyor. Anı aynı kalır, ona eşlik eden sancı azalır."
+    },
+    {
+      "title": "BULGU",
+      "body": "Araştırmacılar aynı üzücü görüntüyü katılımcılara iki kez izletmiş. İki izleme arasında REM uykusu uyuyanlar, ikinci izlemede daha az duygusal tepki vermiş. Hafıza duruyor, acı küçülüyor."
+    },
+    {
+      "title": "NEDEN ÖNEMLİ?",
+      "body": "Beyin geceleri anıları silmiyor, onları yeniden işleyip [[duygusal yükünü]] hafifletiyor. Bu yüzden bazen kötü bir günün ardından uyumak gerçekten işe yarıyor."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Hiç kötü bir günden sonra uyanıp olayın artık o kadar da ağır gelmediğini fark ettin mi? Belki de o gece zihnin sessizce kendi işini yapıyordu."
+    }
+  ],
+  "caption": "Uyurken beynin dinlendiğini sanıyoruz ama bazı geceler aslında çalışıyor, hem de en zor işi yaparak: seni üzen bir anıyı alıp acısını azaltıyor.\n\nBilim insanları buna bazen 'gecelik terapi' diyor. Duygusal yük azalıyor, anı yerinde kalıyor. Belki de 'bir gece geçir, bak nasıl olacak' sözü boşuna söylenmiyor.\n\nSen hiç uyandığında bir şeyin artık o kadar ağır gelmediğini fark ettin mi? 🌙",
+  "hashtags": [
+    "#uyku",
+    "#rüya",
+    "#psikoloji",
+    "#beyin",
+    "#remuykusu",
+    "#duygular",
+    "#merakzihin",
+    "#biliyormuydun",
+    "#zihin",
+    "#gece"
+  ],
+  "source": "Walker & van der Helm (2009), 'Overnight Therapy? The Role of Sleep in Emotional Brain Processing'; Matthew Walker, Why We Sleep",
+  "slot": "gece",
+  "verify_notes": [
+    "\"Aralarında REM uykusu uyuyanlar\" ifadesi biraz belirsiz, netleştirildi.",
+    "Noradrenalinin REM'de 'en düşük seviyede' olduğu ifadesi NREM derin uykuyla karşılaştırmada tartışmalı olabilir; daha temkinli bir dille ifade edildi."
+  ]
+}
