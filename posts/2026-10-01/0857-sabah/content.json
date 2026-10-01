@@ -1,0 +1,43 @@
+{
+  "topic_key": "davranissal-aktivasyon-once-hareket",
+  "category": "davranis",
+  "headline": "Motivasyon [[hareketten]] sonra gelir",
+  "subline": "Beklediğin duygu aslında eylemin bir sonucu",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Çoğumuz “istekli hissedince başlarım” sanır, oysa araştırmalar tam tersini gösteriyor: küçük bir eylem başlatmak, motivasyon hissinin ortaya çıkmasına [[kendisi]] zemin hazırlıyor."
+    },
+    {
+      "title": "KANIT",
+      "body": "Davranışsal aktivasyon terapisinde kullanılan bu yöntem, düşük ruh hallerinde bile işe yarıyor: kişi “hazır” hissetmeden harekete geçtiğinde, küçük ilerlemeyle birlikte ruh hali de yükseliyor."
+    },
+    {
+      "title": "NASIL?",
+      "body": "Beden bir sinyal gönderir, zihin onu yorumlar. Yürümeye başlamak ya da tek bir cümle yazmak gibi küçük hareketler bile “bunu yapabiliyorum” algısını güçlendirir."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bu sabah “canım istemiyor” dediğin bir şeyi sadece iki dakikalığına başlatsan ne olurdu? Hiç denedin mi?"
+    }
+  ],
+  "caption": "Çoğumuz motivasyonu bir ön koşul sanırız: “Kendimi iyi hissedeyim, sonra yaparım.” Oysa psikolojide işler tam tersi çalışıyor gibi görünüyor: önce küçük bir adım atıyorsun, duygu onun arkasından geliyor.\n\nDavranışsal aktivasyon yaklaşımı tam da bunu söylüyor: beklemek yerine başlamak, zihne “bunu yapabilirim” sinyali gönderiyor. Büyük bir karar vermene gerek yok, sadece iki dakikalık bir başlangıç yeterli olabilir.\n\nSen bu sabah hangi işi “keşke canım istese” diyerek erteliyorsun? 🌅",
+  "hashtags": [
+    "#psikoloji",
+    "#merakzihin",
+    "#motivasyon",
+    "#alışkanlık",
+    "#davranışbilimi",
+    "#sabahrutini",
+    "#özyeterlilik",
+    "#bilimhaberleri",
+    "#zihin",
+    "#kişiselgelişim"
+  ],
+  "source": "Jacobson, Martell & Dimidjian - Behavioral Activation; James-Lange duygu teorisi, klinik psikoloji literatürü",
+  "slot": "sabah",
+  "verify_notes": [
+    "\"#öznedenli̇k\" hashtag'inde bozuk/anlamsız bir yazım var (noktalı küçük i karakteri hatalı kullanılmış), düzeltildi.",
+    "\"beyinde motivasyon hissini kendisi tetikliyor\" ifadesi aşırı kesin bir nörobilimsel iddia gibi duruyordu; davranışsal aktivasyon literatürüyle daha uyumlu, temkinli bir ifadeye çevrildi."
+  ]
+}
