@@ -1,0 +1,40 @@
+{
+  "topic_key": "yunus-yarim-beyin-uykusu",
+  "category": "bilim",
+  "headline": "Yunuslar Hiç Tam [[Uyumaz]]",
+  "subline": "Bir göz açık, yarım beyin uyanık kalır",
+  "slides": [
+    {
+      "title": "NASIL?",
+      "body": "Yunuslar uyurken beyinlerinin sadece yarısı uykuya dalar, diğer yarısı [[tamamen uyanık]] kalır. Buna tek taraflı yarıküre uykusu denir."
+    },
+    {
+      "title": "NEDEN?",
+      "body": "Yunuslarda nefes alma otomatik değildir, bilinçli kontrol gerektirir. Uyanık kalan yarım küre yüzeye çıkıp nefes almayı yönetir, boğulmayı engeller."
+    },
+    {
+      "title": "GÖZ DE BİLİYOR",
+      "body": "Uyuyan yarıküreye karşılık gelen göz kapanır, uyanık yarıküreye ait göz ise açık kalıp çevreyi ve olası tehlikeleri [[izlemeye]] devam eder."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Hiç yarı uyanık, yarı dalgın hissettiğin anlar oldu mu? Belki beynin tam senin bildiğin gibi hep aynı anda çalışmıyordur."
+    }
+  ],
+  "caption": "Yunuslar denizde yüzerken bile güvende uyuyabiliyor, çünkü beyinleri asla tamamen kapanmıyor 🐬 Bir yarım küre dinlenirken diğeri nöbet tutuyor, hem nefes almayı sağlıyor hem de etrafı kolluyor.\n\nBu özellik sadece yunuslara değil, bazı balina türlerine ve kuşlara da özgü. Doğa, hayatta kalmak için uykuyu bile paylaştırmayı başarmış.\n\nSence insan beyni de bazen farkında olmadan böyle küçük \"nöbetler\" tutuyor mudur? 🤔",
+  "hashtags": [
+    "#biyoloji",
+    "#hayvanlar",
+    "#yunus",
+    "#bilim",
+    "#merakzihin",
+    "#dogabilimi",
+    "#deniz",
+    "#beyin",
+    "#sasirtici",
+    "#bilgi"
+  ],
+  "source": "Lyamin, O. ve ark., deniz memelileri uyku araştırmaları (NOAA, marine mammal cognition çalışmaları)",
+  "slot": "ogle",
+  "verify_notes": []
+}
