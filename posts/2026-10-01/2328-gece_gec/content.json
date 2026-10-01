@@ -1,0 +1,40 @@
+{
+  "topic_key": "kozmik-takvim-insanlik-son-saniyeler",
+  "category": "uzay",
+  "headline": "Evreni [[bir yıla]] sığdırsak ne olurdu?",
+  "subline": "İnsanlık o takvimde ne zaman doğar, tahmin et",
+  "slides": [
+    {
+      "title": "BAŞLANGIÇ",
+      "body": "Evrenin yaşı yaklaşık 13,8 milyar yıl. Bunu tek bir yıllık takvime sığdırsak, Büyük Patlama 1 Ocak gece yarısı olur. Her gün, gerçekte yaklaşık 38 milyon yıla karşılık gelir."
+    },
+    {
+      "title": "AY AY",
+      "body": "Bu takvimde Dünya ancak [[eylül ayı]] ortasında oluşur. Dinozorlar 24 Aralık civarında sahneye çıkar, 30 Aralık'ta da yok olur. Evren tarihinin büyük bölümü, insan türü ortaya çıkmadan önce geçer."
+    },
+    {
+      "title": "PEKİ İNSANLIK?",
+      "body": "Modern insan, bu bir yıllık takvimde [[31 Aralık gece 23.52]] gibi ortaya çıkar. Yani tüm insanlık tarihi, yılın son 8 dakikasına sığar."
+    },
+    {
+      "title": "SEN ŞİMDİ",
+      "body": "Yazı, şehirler, bilim, şu an okuduğun her şey, o son saniyenin bile son kısmında yaşanır. Evren bu kadar uzun, sen bu kadar yenisin. Bunu düşününce zaman sana nasıl hissettiriyor?"
+    }
+  ],
+  "caption": "Evrenin 13,8 milyar yıllık tarihini bir takvime sığdırsak, insanlık yılın son dakikalarında ortaya çıkıyor. Dinozorlar bile bizden önce aylarca yaşamış 🌌\n\nBu ölçek bazen insanı küçük hissettirir, bazen de tam tersi: bu kadar kısa bir anda bunca şeyi başarmış olmak şaşırtıcı değil mi?\n\nSen bu düşünceyle nasıl hissediyorsun, küçük mü yoksa şanslı mı?",
+  "hashtags": [
+    "#evren",
+    "#uzay",
+    "#bilim",
+    "#zamanalgisi",
+    "#kozmoloji",
+    "#merakedenzihinbüyür",
+    "#insanlıktarihi",
+    "#astronomi",
+    "#felsefe",
+    "#bilgiverici"
+  ],
+  "source": "Carl Sagan, Cosmos: A Personal Voyage (1980) — 'Cosmic Calendar' kavramı; astronomi eğitiminde yaygın kullanılan bilimsel popülerleştirme",
+  "slot": "gece_gec",
+  "verify_notes": []
+}
