@@ -1,0 +1,43 @@
+{
+  "topic_key": "doruk-son-kurali-deneyim-hafizasi",
+  "category": "psikoloji",
+  "headline": "Bir deneyimi [[nasıl]] hatırladığın, ne kadar sürdüğüyle alakasız",
+  "subline": "Zihnin süreyi değil, iki anı saklar",
+  "slides": [
+    {
+      "title": "DENEY",
+      "body": "Kahneman ve ekibi, kolonoskopi hastalarından işlem sırasında acılarını dakika dakika puanlamalarını istedi. Sonra işlem bitince genel deneyimi değerlendirdiler."
+    },
+    {
+      "title": "SONUÇ",
+      "body": "Daha uzun süren ama [[sonu daha hafif biten]] işlemler, kısa süren fakat sert biten işlemlerden daha az acı verici hatırlandı. Süre, hafızada neredeyse hiç yer tutmadı."
+    },
+    {
+      "title": "KURAL NE?",
+      "body": "Buna doruk-son kuralı denir: Bir deneyimi hatırlarken onu bütünüyle değil, en yoğun anı ve bitişiyle değerlendiririz. Zihin ortalama almaz, [[iki kareyi]] seçer."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bir tatilin, bir toplantının ya da bir günün nasıl geçtiğini hatırlarken aslında neyi hatırlıyorsun: Tüm süreci mi, yoksa en çok hissettiğin ve en son yaşadığın anı mı?"
+    }
+  ],
+  "caption": "Uzun süren güzel bir günün sonu kötü bitince tüm günü 'kötüydü' diye mi hatırlıyorsun? Bu rastlantı değil, zihninin çalışma şekli.\n\nBeynimiz deneyimleri bir kayıt cihazı gibi saklamaz. Onun yerine en yoğun anı ve son anı alır, geri kalanını büyük ölçüde siler. Bu yüzden iki saatlik keyifli bir buluşma, kötü biten son beş dakika yüzünden hafızanda olumsuza dönebilir.\n\nBunu bilmek aslında elinde bir araç verir: Bir günü, bir konuşmayı ya da bir ilişkiyi güzel bitirmek, onun tamamının nasıl hatırlanacağını değiştirebilir.\n\nSence son zamanlarda hatırladığın bir anı, gerçekte yaşadığından çok mu farklıydı? 🤔",
+  "hashtags": [
+    "#psikoloji",
+    "#davranışbilimi",
+    "#kararverme",
+    "#biliş",
+    "#merakzihin",
+    "#zihin",
+    "#hafıza",
+    "#insandavranışı",
+    "#sosyalpsikoloji",
+    "#bilişselyanılgı"
+  ],
+  "source": "Redelmeier & Kahneman (1996), kolonoskopi hasta deneyimi çalışması; Kahneman, Thinking, Fast and Slow",
+  "slot": "aksam",
+  "verify_notes": [
+    "Kaynak atıfı yanlış sırada: Asıl makale 'Redelmeier & Kahneman (1996)' şeklindedir, 'Kahneman & Redelmeier' değil.",
+    "Hashtag yazım hatası: '#karaverme' yerine '#kararverme' olmalı."
+  ]
+}
