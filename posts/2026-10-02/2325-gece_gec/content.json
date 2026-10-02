@@ -1,0 +1,41 @@
+{
+  "topic_key": "gunes-isigi-cekirdek-yolculugu",
+  "category": "uzay",
+  "headline": "Güneşin ışığı sandığından çok [[daha eski]]",
+  "subline": "Dışarı çıkana kadar binlerce yıl geçiyor",
+  "slides": [
+    {
+      "title": "NASIL?",
+      "body": "Güneşin çekirdeğinde üretilen enerji, foton hâlinde dışarı doğru yol alır. Ama o kadar yoğun bir ortamdır ki ışık sürekli parçacıklara çarpıp yön değiştirir, düz gidemez."
+    },
+    {
+      "title": "KAÇ YIL?",
+      "body": "Durmadan sekip duran bu yolculuk yüzünden bir fotonun çekirdekten yüzeye ulaşması, güneş fiziği modellerine göre [[ortalama yüz binlerce yıl]] sürebilir."
+    },
+    {
+      "title": "SONRA?",
+      "body": "Yüzeye ulaşan ışık, boşlukta Dünya'ya sadece yaklaşık 8 dakikada gelir. Yani gördüğün ışığın asıl yolculuğu, senin ömründen çok daha önce başlamıştır."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Şu an hissettiğin güneş ışığı, [[taş devrinde]] yola çıkmış olabilir. Zamanın bu kadar esnek olduğunu düşününce, bugünün sana ne kadar hızlı geçtiğini bir daha düşün."
+    }
+  ],
+  "caption": "Güneşe her baktığında aslında geçmişe bakıyorsun demiştik ama bu kez mesele ışığın sana ulaşma süresi değil, içeride geçirdiği süre. ☀️\n\nGüneşin çekirdeğinde üretilen bir foton, dışarı çıkana kadar sayısız kez çarpışıp yön değiştiriyor. Bu yüzden 8 dakikalık o tanıdık yolculuğa başlamadan önce, binlerce yıl güneşin içinde sıkışıp kalmış oluyor.\n\nYani şu an hissettiğin ışık, insanlık tarihinin çok öncesinde yola çıkmış olabilir. Zaman kavramı bu bilgiyle değişiyor mu sence?",
+  "hashtags": [
+    "#merakzihin",
+    "#bilim",
+    "#uzay",
+    "#güneş",
+    "#astrofizik",
+    "#evren",
+    "#zaman",
+    "#ışık",
+    "#nasa",
+    "#fizik",
+    "#merakedenzihinbüyür"
+  ],
+  "source": "NASA Solar Physics; güneş fiziğinde foton difüzyon süresi (radiative diffusion time) üzerine astrofizik kaynaklar",
+  "slot": "gece_gec",
+  "verify_notes": []
+}
