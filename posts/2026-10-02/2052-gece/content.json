@@ -1,0 +1,43 @@
+{
+  "topic_key": "el-ayak-isinmasi-uykuya-dalma",
+  "category": "uyku",
+  "headline": "Neden [[ayakların]] battaniyeden çıkar?",
+  "subline": "Bedenin uykuya dalmak için ısı kaybetmeye çalışır",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Uykuya dalmadan kısa süre önce vücudunun çekirdek sıcaklığı düşmeye başlar. Bu düşüş, beynine [[uyku vakti geldi]] sinyalini gönderen süreçlerden biridir."
+    },
+    {
+      "title": "NASIL?",
+      "body": "Bu düşüşü sağlamak için ellerindeki ve ayaklarındaki kan damarları genişler, ısı dışarı atılır. Bu yüzden uykuya yaklaşırken ellerin ve ayakların ısınır, bazen de battaniye dışına çıkar."
+    },
+    {
+      "title": "KANIT",
+      "body": "Araştırmacılar, ellerin ve ayakların ne kadar hızlı ısındığını ölçerek kişinin [[ne kadar sürede uykuya dalacağını]] yüksek doğrulukla tahmin edebilmiş."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bu gece ayağını battaniyeden çıkarırken, bunun tembellik değil bedeninin seni uykuya hazırlama şekli olduğunu fark edecek misin?"
+    }
+  ],
+  "caption": "Bazı geceler neden ayağını battaniyeden çıkardığını hiç merak ettin mi? Bu küçük hareket aslında bilinçli bir seçim değil, bedeninin seni uykuya hazırlama biçimi. 🌙\n\nUykuya dalmadan önce vücudun çekirdek sıcaklığını düşürmeye çalışır; bunu yapmanın yollarından biri de el ve ayaklardaki damarları genişletip ısıyı dışarı atmaktır. Araştırmalar bu ısınma hızının, kişinin ne kadar çabuk uykuya dalacağıyla ilişkili olduğunu gösteriyor.\n\nYani bir dahaki sefer ayağını yorgana sokmadığını fark edince, bu küçük hareketin arkasında oldukça ciddi bir biyolojik mekanizma olduğunu hatırlayabilirsin. Sen hangi pozisyonda daha çabuk uykuya dalıyorsun?",
+  "hashtags": [
+    "#uyku",
+    "#biyoloji",
+    "#bilim",
+    "#merakzihin",
+    "#uykubilimi",
+    "#vucut",
+    "#gece",
+    "#saglik",
+    "#ilginçbilgiler",
+    "#psikoloji"
+  ],
+  "source": "Kräuchi K. ve ark., Nature (1999); distal vazodilatasyon ve uyku başlangıcı üzerine fizyoloji araştırmaları",
+  "slot": "gece",
+  "verify_notes": [
+    "\"Şaşırtıcı derecede doğru tahmin edebilmiş\" ifadesi hafif abartılı; bulgu gerçek olsa da (Kräuchi ve ark., 1999, Nature) daha ölçülü bir dille ifade edilmesi uygun olur.",
+    "Subline'daki \"Bedenin uykuya dalmak için ısı kaybeder\" ifadesi gramer olarak biraz eksik/belirsiz, netleştirilebilir."
+  ]
+}
