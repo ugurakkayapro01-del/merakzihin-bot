@@ -1,0 +1,40 @@
+{
+  "topic_key": "kor-nokta-beynin-doldurmasi",
+  "category": "beyin",
+  "headline": "Gözünde bir [[kör nokta]] var",
+  "subline": "Ve beynin bunu senden saklıyor",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Retinanda optik sinirin gözden çıktığı küçük bir nokta var. O noktada ışığa duyarlı hücre bulunmuyor, yani görüş alanının bir parçası gerçekten [[kör]]."
+    },
+    {
+      "title": "PEKİ NASIL FARK ETMEZSİN?",
+      "body": "Beynin o boşluğu fark etmene izin vermiyor. Çevredeki renk ve desenlere bakarak eksik kısmı [[tahmin ederek]] dolduruyor, sana kusursuz bir görüntü sunuyor."
+    },
+    {
+      "title": "İKİ GÖZ, TEK RESİM",
+      "body": "Sağ ve sol gözündeki kör noktalar farklı yerlerde. İki göz birlikte çalışınca boşluklar birbirini kapatıyor, bu yüzden günlük hayatta hiç fark etmezsin."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Beynin gözde eksik olanı tahminle dolduruyorsa, insanlar ya da olaylar hakkında da eksik bilgiyi fark etmeden [[tamamlıyor]] olabilir misin?"
+    }
+  ],
+  "caption": "Gözünün tam ortasında, aslında hiçbir şey göremediğin bir nokta var. Optik sinirin retinadan çıktığı bu bölgede ışığa duyarlı hücre yok. Yani teknik olarak orada kör sayılırsın.\n\nAma bunu hayatın boyunca fark etmedin çünkü beynin seni küçük bir yalanla koruyor: etraftaki bilgiyi kullanarak o boşluğu dolduruyor ve sana kesintisiz bir dünya gösteriyor.\n\nBeynin eksik bilgiyi bu kadar ustaca tamamlıyorsa, acaba sadece gözde mi yapıyor bunu? 👁️\n\nSen hiç \"aslında hiç görmediğin\" bir şeyi görmüş gibi hissettin mi?",
+  "hashtags": [
+    "#beyin",
+    "#nörobilim",
+    "#görme",
+    "#bilim",
+    "#ilginçbilgi",
+    "#psikoloji",
+    "#meraklızihin",
+    "#bunubilmiyordum",
+    "#gözvebeyin",
+    "#bilimseverler"
+  ],
+  "source": "Görme bilimi ve nörobilim ders kitapları; NIH National Eye Institute kör nokta (optik disk) açıklamaları",
+  "slot": "ogle",
+  "verify_notes": []
+}
