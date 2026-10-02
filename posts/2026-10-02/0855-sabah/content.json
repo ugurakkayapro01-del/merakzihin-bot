@@ -1,0 +1,42 @@
+{
+  "topic_key": "zeigarnik-etkisi-sabah-plan",
+  "category": "psikoloji",
+  "headline": "Zihin [[bitmemiş]] işleri asla bırakmaz",
+  "subline": "Sabah birkaç dakika bunu değiştirebilir",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Rus psikolog Bluma Zeigarnik, tamamlanmamış görevlerin zihinde tamamlanmışlara göre çok daha uzun süre [[aktif]] kaldığını fark etti. Zihin bir işi bitirmeden bırakmak istemez, onu arka planda tutar."
+    },
+    {
+      "title": "PEKİ SABAH?",
+      "body": "Güne başlarken aklındaki onlarca 'yapılacak' şey, zihninde küçük açık döngüler gibi durur. Hiçbiri bitmemiştir ama hepsi dikkatinin bir köşesinde sessizce bekler."
+    },
+    {
+      "title": "ÇÖZÜM",
+      "body": "Bir araştırmada, bir işi gerçekten bitirmenin değil, sadece [[ne zaman ve nasıl]] yapılacağını yazmanın bile zihni rahatlattığı görüldü. Plan, zihne 'tamam, unutmuyorum' güvencesi veriyor."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bu sabah kafanda dönüp duran şeyi bir kâğıda yazsan, zihnin birazcık daha hafiflemiş olur muydu?"
+    }
+  ],
+  "caption": "Sabahları zihnin neden bu kadar dolu hissettirdiğini hiç düşündün mü? Aslında suç kafanda dönen onlarca 'yapmam gerek'in kendisi değil, onların hâlâ açık bırakılmış olması.\n\nBluma Zeigarnik'in gözlemi basit ama güçlü: Bitmemiş işler, bitenlere göre zihinde çok daha fazla yer kaplıyor. Yıllar sonra yapılan çalışmalar ise ilginç bir çözüm ortaya koydu: İşi bitirmene gerek yok, sadece ne zaman ve nasıl yapacağını net bir şekilde belirlemen bile zihnini rahatlatabiliyor.\n\nYani bazen ihtiyacın olan tek şey, bir kâğıt ve iki dakika. Sen sabahları zihnindeki 'açık işleri' nasıl susturuyorsun? 🧠",
+  "hashtags": [
+    "#psikoloji",
+    "#zihinselhafifleme",
+    "#sabahrutini",
+    "#zeigarniketkisi",
+    "#odaklanma",
+    "#verimlilik",
+    "#merakzihin",
+    "#bilinçlifarkindalik",
+    "#zihinsağlığı",
+    "#gunebaslangic"
+  ],
+  "source": "Zeigarnik, B. (1927), Über das Behalten von erledigten und unerledigten Handlungen; Masicampo, E.J. & Baumeister, R.F. (2011), Journal of Personality and Social Psychology",
+  "slot": "sabah",
+  "verify_notes": [
+    "Captionda virgülle bağlanmış bağımsız cümleler (virgül kaçağı) var: 'ortaya koydu, işi bitirmene gerek yok, sadece...' kısmı düzeltildi."
+  ]
+}
