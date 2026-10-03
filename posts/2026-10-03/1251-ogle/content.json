@@ -1,0 +1,40 @@
+{
+  "topic_key": "kalp-kendi-elektrigi-otonom-atis",
+  "category": "vucut",
+  "headline": "Kalp, beynin olmadan da [[atabilir]]",
+  "subline": "Çünkü kalbin kendi elektrik sistemi var",
+  "slides": [
+    {
+      "title": "NASIL?",
+      "body": "Kalbin sağ üst odacığında [[sinoatrial düğüm]] denen küçük bir hücre grubu var. Bu hücreler kendiliğinden elektrik sinyali üretir, beyinden emir beklemez."
+    },
+    {
+      "title": "GERÇEKTEN Mİ?",
+      "body": "Kalp vücuttan çıkarılsa bile uygun koşullarda bir süre [[kendi kendine]] atmaya devam edebilir. Çünkü atış emri kalbin kendi içinden gelir."
+    },
+    {
+      "title": "PEKİ BEYİN?",
+      "body": "Beyin kalbi başlatmaz, sadece hızını ayarlar. Heyecanlandığında ya da sakinleştiğinde devreye giren sinir sistemi, zaten çalışan bir motoru [[hızlandırıp yavaşlatır]]."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Vücudunun hangi parçalarının, senin haberin bile olmadan kendi kararlarını verdiğini hiç [[düşündün mü]]?"
+    }
+  ],
+  "caption": "Kalbinin attığını hissedersin ama o atışı aslında sen yönetmiyorsun. 🫀\n\nKalbin içinde, sağ üst odacığında yer alan “sinoatrial düğüm” denen küçük bir hücre topluluğu var. Bu hücreler kendi kendilerine elektrik sinyali üretip kalbi çalıştırıyor, beyinden emir beklemeden.\n\nBeynin görevi kalbi başlatmak değil, sadece hızını ayarlamak. Korktuğunda kalbin hızlanır, sakinleştiğinde yavaşlar; ama bu, zaten kendi kendine çalışan bir motora sadece müdahale etmekten ibaret.\n\nPeki sence vücudun, senin haberin olmadan başka ne kararlar alıyor? 🤔",
+  "hashtags": [
+    "#bilim",
+    "#vücut",
+    "#insanvücudu",
+    "#kalp",
+    "#fizyoloji",
+    "#biyoloji",
+    "#merakzihin",
+    "#ilginçbilgiler",
+    "#saglik",
+    "#bunubilmiyordum"
+  ],
+  "source": "Guyton & Hall Tıbbi Fizyoloji; temel kardiyak fizyoloji ders kaynakları (sinoatrial düğüm otomatikliği)",
+  "slot": "ogle",
+  "verify_notes": []
+}
