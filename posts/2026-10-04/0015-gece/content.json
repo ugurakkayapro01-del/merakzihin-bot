@@ -1,0 +1,43 @@
+{
+  "topic_key": "ruya-unutma-norepinefrin",
+  "category": "uyku",
+  "headline": "Rüyalar neden [[uyanır uyanmaz]] silinir?",
+  "subline": "Gördüğün rüya aslında hiç kaydedilmemiş olabilir.",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Rüya gördüğün an beynin bir kimyasalı neredeyse hiç üretmez: [[norepinefrin]]. Bu madde olmadan hipokampüs, yaşadıklarını kalıcı hafızaya aktaramaz."
+    },
+    {
+      "title": "YANİ?",
+      "body": "Rüyan aslında kaybolmuyor, hiç [[kaydedilmiyor]]. Uyandığın ilk saniyelerde beynin yeniden çalışmaya başlar. Elinde kalan birkaç saniyelik parça, çoğu zaman gerçek rüyanın sadece kırıntısıdır."
+    },
+    {
+      "title": "PEKİ?",
+      "body": "Araştırmalar, uyandıktan sonraki ilk [[birkaç dakika]] içinde rüyaların büyük kısmının hatırlanamaz hale geldiğini gösteriyor. O yüzden bazı rüyalar sabah, 'az önce neydi' hissiyle uçup gider."
+    },
+    {
+      "title": "SEN NE DÜŞÜNÜYORSUN?",
+      "body": "Bir dahaki sefere uyanır uyanmaz gözlerini açmadan birkaç saniye beklemeyi dene; belki rüyan biraz daha seninle kalır. Sen son rüyanı ne kadar hatırlıyorsun?"
+    }
+  ],
+  "caption": "Gece gördüğün o canlı, detaylı rüya sabah neredeyse hiç kalmıyor, değil mi? Bunun nedeni unutkanlığın değil, beynin rüya anında hafıza kaydını açacak kimyasalı neredeyse hiç üretmemesi.\n\nYani aslında çoğu rüyan kaybolmuyor, en başından kaydedilmiyor. Uyanış anındaki o birkaç saniyelik pencere, elinde kalan tek kanıt oluyor.\n\nSen rüyalarını genelde hatırlayan biri misin, yoksa uyanır uyanmaz hepsi mi uçup gidiyor? 🌙",
+  "hashtags": [
+    "#uyku",
+    "#ruyalar",
+    "#beyin",
+    "#psikoloji",
+    "#noropsikoloji",
+    "#bilim",
+    "#merakzihin",
+    "#zihin",
+    "#uykubilimi",
+    "#rem"
+  ],
+  "source": "Hobson, J.A. - REM uykusu nörokimyası üzerine araştırmalar; rüya hafızası konulu uyku bilimi çalışmaları (Nielsen ve diğerleri)",
+  "slot": "gece",
+  "verify_notes": [
+    "İkinci slaytta virgülle birleştirilmiş iki bağımsız cümle (cümle kaynaşması) var; noktayla ayrılmalı.",
+    "Kaynak ataması genel bir araştırma alanına işaret ediyor, spesifik bir makale belirtilmemiş; bu bilimsel popülerleştirme bağlamında kabul edilebilir ancak netlik için yumuşatıldı."
+  ]
+}
