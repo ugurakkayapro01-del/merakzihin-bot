@@ -1,0 +1,40 @@
+{
+  "topic_key": "sadece-maruz-kalma-etkisi",
+  "category": "psikoloji",
+  "headline": "Sık gördüğün [[yüzü]] neden daha çok seversin?",
+  "subline": "Tanıdıklık, sessizce sevgiye dönüşür",
+  "slides": [
+    {
+      "title": "DENEY",
+      "body": "Psikolog Robert Zajonc, katılımcılara anlamsız semboller ve yabancı yüzler gösterdi. Bazılarını bir kez, bazılarını defalarca gösterdi. Sonunda insanlar [[en çok tekrar gördükleri]] görseli daha sempatik buldu."
+    },
+    {
+      "title": "NEDEN?",
+      "body": "Beyin, tanıdık olanı güvenli sayar. Bir şeyi tekrar gördükçe onu tanıman kolaylaşır, bu kolaylık hissi zamanla hoşluğa dönüşür. Buna [[sadece maruz kalma etkisi]] deniyor."
+    },
+    {
+      "title": "HAYATTA",
+      "body": "Her gün gördüğün komşu, yanındaki masa arkadaşı, sürekli çalan bir şarkı... İlk başta kayıtsız kaldığın biri ya da bir şey, sadece tekrar sayesinde sana yakın gelmeye başlayabilir."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "İlk tanıştığında hiç etkilenmediğin biri, zamanla seni şaşırtacak kadar yakın geldi mi? Belki bu sevgi, sandığın kadar tesadüf değildi."
+    }
+  ],
+  "caption": "Bazen bir şeyi neden sevdiğimizi bile bilmeyiz. Belki de cevap çok basit: sadece onu çok gördük.\n\nZajonc'un klasik deneyi gösteriyor ki tekrar, beynimizde tanıdıklığı artırıyor ve tanıdıklık da garip bir şekilde sevgiye dönüşüyor. Yüzler, şarkılar, hatta günlük rutinler bile bu kuralın dışında değil.\n\nSen hiç başta sıradan gelen birinin ya da bir şeyin, zamanla vazgeçilmezin hâline geldiğini fark ettin mi? 👇",
+  "hashtags": [
+    "#psikoloji",
+    "#sosyalpsikoloji",
+    "#davranisbilimi",
+    "#merakzihin",
+    "#zihin",
+    "#iliskiler",
+    "#biliyormuydun",
+    "#bilinçaltı",
+    "#insandavranisi",
+    "#kisiselgelisim"
+  ],
+  "source": "Zajonc, R.B. (1968). Attitudinal Effects of Mere Exposure. Journal of Personality and Social Psychology; sonraki replikasyon çalışmaları",
+  "slot": "aksam",
+  "verify_notes": []
+}
