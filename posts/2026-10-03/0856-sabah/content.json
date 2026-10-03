@@ -1,0 +1,40 @@
+{
+  "topic_key": "dikkat-kalintisi-gorev-gecisi",
+  "category": "psikoloji",
+  "headline": "Zihnin Bir Önceki İşte [[Kalır]]",
+  "subline": "Görev değiştirmek sandığın kadar ücretsiz değil",
+  "slides": [
+    {
+      "title": "NEDİR?",
+      "body": "Bir işten diğerine geçtiğinde zihnin orada tam olarak kapanmaz. Araştırmacılar buna [[dikkat kalıntısı]] diyor: eski görevin bir parçası seninle gelir."
+    },
+    {
+      "title": "NEDEN OLUR?",
+      "body": "Zihin, bitmemiş bir işi arka planda işlemeye devam eder. Mail kontrol edip hemen rapora dönmek, aslında iki işi aynı anda yarım yapmaktır."
+    },
+    {
+      "title": "SONUCU NE?",
+      "body": "Leroy'un çalışmasına göre, tamamlanmamış görevlerden sonra başlanan yeni işte performans [[belirgin şekilde düşüyor]]. Odak dağılıyor, hata payı artıyor."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Sabah ilk işine başlamadan önce, zihnindeki yarım kalan düşünceyi bir kenara not etsen, bu sabah nasıl farklı başlardı?"
+    }
+  ],
+  "caption": "Sabah ilk iş olarak telefonuna bakıp sonra işe dönmeye çalıştın mı hiç? O an aslında iki işi birden yürütüyorsun; biri bilinçli, diğeri arka planda çalışan bitmemiş bir düşünce.\n\nSophie Leroy'un araştırması, görev değiştirmenin göründüğü kadar anlık olmadığını gösteriyor. Zihin bir süre eski işte kalıyor, yeni işe tam kapasiteyle giremiyor.\n\nBasit çözüm: bir işi bitirmeden ya da en azından net bir durma noktasında bırakmadan diğerine geçmemek. Sen sabahları kaç işi aynı anda açık tutuyorsun? 🧠",
+  "hashtags": [
+    "#psikoloji",
+    "#odak",
+    "#üretkenlik",
+    "#sabahrutini",
+    "#zihinsağlığı",
+    "#dikkat",
+    "#motivasyon",
+    "#bilim",
+    "#meraklızihin",
+    "#kişiselgelişim"
+  ],
+  "source": "Leroy, S. (2009). 'Why is it so hard to do my work?' Attention residue araştırması, Organizational Behavior and Human Decision Processes",
+  "slot": "sabah",
+  "verify_notes": []
+}
