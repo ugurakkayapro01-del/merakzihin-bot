@@ -1,0 +1,42 @@
+{
+  "topic_key": "zaman-dilatasyonu-yukseklik-farki",
+  "category": "bilim",
+  "headline": "Kafan, ayaklarından [[daha hızlı]] yaşlanıyor",
+  "subline": "Zaman, yükseldikçe gerçekten hızlanır.",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Einstein'ın genel görelilik kuramına göre yerçekimi zamanı yavaşlatır. Yere ne kadar yakınsan, çekim o kadar güçlü, zaman da o kadar [[yavaş]] akar. Fark inanılmaz derecede küçük ama gerçek."
+    },
+    {
+      "title": "KANIT",
+      "body": "2010'da NIST'teki bilim insanları, aralarında sadece yaklaşık 33 santimetre yükseklik farkı olan iki atomik saati karşılaştırdı. Yüksekte duran saat, ölçülebilir derecede [[daha hızlı]] ilerledi."
+    },
+    {
+      "title": "GPS BAĞLANTISI",
+      "body": "GPS uyduları Dünya'dan yaklaşık 20.000 kilometre yukarıda olduğu için zamanları yeryüzündekinden farklı akar. Bu fark hesaba katılmasa, konum hataları günde kilometrelerce büyürdü."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Şu an ayakların, kafandan birkaç nanosaniye daha [[yavaş]] yaşlanıyor. Fark asla hissetmeyeceğin kadar küçük ama gerçek. Zaman, sandığın gibi tek bir hızla akmıyor."
+    }
+  ],
+  "caption": "Zamanın herkese aynı hızda aktığını düşünürüz. Oysa Einstein'dan beri biliyoruz ki zaman, yerçekimine göre esner. Yere yakın olan her şey, biraz daha yavaş yaşlanır.\n\nBu o kadar küçük bir fark ki günlük hayatında asla fark edemezsin. Ama atomik saatlerle, hatta cebindeki telefonun GPS'iyle her gün ölçülüyor. ⏳\n\nSence zamanın bu kadar \"esnek\" olması, onu nasıl deneyimlediğini değiştirir mi?",
+  "hashtags": [
+    "#merakzihin",
+    "#bilim",
+    "#fizik",
+    "#uzay",
+    "#zaman",
+    "#gorelilik",
+    "#einstein",
+    "#evren",
+    "#bilgi",
+    "#sasirtici"
+  ],
+  "source": "NIST (National Institute of Standards and Technology) atomik saat deneyleri, 2010; Einstein'ın Genel Görelilik Kuramı",
+  "slot": "gece_gec",
+  "verify_notes": [
+    "\"Fark inanılmaz küçük\" ifadesi dil bilgisi açısından daha akıcı hale getirilebilir (\"inanılmaz derecede küçük\")."
+  ]
+}
