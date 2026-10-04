@@ -1,0 +1,40 @@
+{
+  "topic_key": "goz-kirpma-gorsel-bastirma",
+  "category": "beyin",
+  "headline": "Göz kırptığında dünya [[kararmıyor]], beynin gizliyor",
+  "subline": "Günde binlerce kez olur, hiç fark etmezsin",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Göz kırpma yaklaşık 100-150 milisaniye sürer. Bu sırada gözkapağın her şeyi karartır ama sen bunu [[fark etmezsin]], çünkü beynin görüntüyü kesintisiz gösterir."
+    },
+    {
+      "title": "NASIL?",
+      "body": "Araştırmalar, göz kırpma anında görsel korteksteki aktivitenin aktif olarak [[bastırıldığını]] gösteriyor. Beynin, karanlığı değil, kırpma öncesi ve sonrası görüntüyü birleştirip sunuyor."
+    },
+    {
+      "title": "SONUÇ",
+      "body": "Yani gözlerin günde yaklaşık 15-20 bin kez kapanıp açılıyor ama sen dünyanın hiç kesintiye uğramadığını düşünüyorsun. Beynin sana sürekli bir film gösteriyor."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bir dahaki sefere göz kırparken dur ve düşün: O kesintisiz gördüğün an, aslında beynin senin için kurguladığı bir [[yanılsama]]. Hiç fark ettin mi?"
+    }
+  ],
+  "caption": "Gözlerin her kırpışında aslında birkaç milisaniyeliğine kör oluyorsun. Ama bunu hiç hissetmiyorsun çünkü beynin, o küçük karanlık anları senin için saklıyor ve görüntüyü kesintisiz bir şekilde birleştiriyor.\n\nBu, beynin sadece gördüklerini işlemediğini, aynı zamanda sana ne göstereceğine de karar verdiğini gösteriyor. Yani algıladığın 'gerçeklik' bazen beynin senin için düzenlediği bir kurgu.\n\nPeki hiç düşündün mü, beynin başka hangi anlarda seni senden gizliyor olabilir? 👁️",
+  "hashtags": [
+    "#beyin",
+    "#norobilim",
+    "#psikoloji",
+    "#bilim",
+    "#merakzihin",
+    "#algiyanilsamasi",
+    "#insanvucudu",
+    "#ilginçbilgiler",
+    "#bilimsever",
+    "#zihin"
+  ],
+  "source": "Volkmann, F.C. et al., 'Eye blinks and visual suppression' (nörobilim); Bristow, D. et al., 2005, Current Biology, fMRI ile blink suppression çalışması",
+  "slot": "ogle",
+  "verify_notes": []
+}
