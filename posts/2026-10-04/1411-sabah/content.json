@@ -1,0 +1,40 @@
+{
+  "topic_key": "ilerleme-prensibi-kucuk-zafer-motivasyon",
+  "category": "psikoloji",
+  "headline": "Küçük bir [[zafer]] sabahını değiştirir",
+  "subline": "Beynin büyük başarıyı değil, ilerlemeyi sever",
+  "slides": [
+    {
+      "title": "BULGU",
+      "body": "Harvard'da yapılan bir araştırmada binlerce iş günlüğü incelendi. İnsanları en çok motive eden şey büyük başarılar değil, küçük ama [[somut ilerlemelerdi]]."
+    },
+    {
+      "title": "NEDEN?",
+      "body": "Zihnin ödül sistemi sonuca değil, 'ilerliyorum' sinyaline tepki verir. Küçük bir işi bitirmek bile bu sinyali tetikler ve devam etme isteğini güçlendirir."
+    },
+    {
+      "title": "SABAHA UYGULA",
+      "body": "Yatağını toplamak, bir mesajı yanıtlamak, kısa bir listeyi bitirmek... Küçük görünse de beynine sabahın ilk [[kazanımını]] bildirir ve gerisini kolaylaştırır."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bu sabah tamamladığın ilk küçük iş neydi? Ondan sonra enerjin nasıl değişti, hiç fark ettin mi?"
+    }
+  ],
+  "caption": "Büyük hedefler koyarız ama bizi harekete geçiren çoğu zaman en küçük adımlar olur. Yapılan bir araştırmada, insanların en motive hissettiği anların dev başarılar değil, günlük küçük ilerlemeler olduğu görülmüş 🌅\n\nBunun sebebi basit: zihin sonucu değil, 'ileri gidiyorum' hissini ödüllendiriyor. Yani sabah yaptığın küçük bir iş bile gün boyu sürecek bir ivme yaratabiliyor.\n\nBugün ilk iş olarak ne yaptın? Yatağını mı topladın, kısa bir listeyi mi bitirdin? Yorumlarda paylaş, bakalım kimin sabahı nasıl başlamış ☕",
+  "hashtags": [
+    "#psikoloji",
+    "#motivasyon",
+    "#sabahrutini",
+    "#alışkanlık",
+    "#üretkenlik",
+    "#merakzihin",
+    "#ilerlemeprensibi",
+    "#odaklanma",
+    "#küçükadımlar",
+    "#zihin"
+  ],
+  "source": "Teresa Amabile & Steven Kramer, 'The Progress Principle' (Harvard Business School araştırması, Harvard Business Review Press)",
+  "slot": "sabah",
+  "verify_notes": []
+}
