@@ -1,0 +1,44 @@
+{
+  "topic_key": "yanlis-fikir-birligi-etkisi",
+  "category": "psikoloji",
+  "headline": "Herkes [[senin gibi]] düşünür sanırsın",
+  "subline": "Ama bu düşünce seni yanıltıyor olabilir",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "İnsanlar kendi görüşlerinin, tercihlerinin ve davranışlarının aslında olduğundan çok daha [[yaygın]] olduğunu düşünme eğiliminde. Buna 'yanlış fikir birliği etkisi' deniyor."
+    },
+    {
+      "title": "DENEY",
+      "body": "1977'de yapılan klasik bir çalışmada katılımcılara bir tabela taşıyıp taşımayacakları soruldu. Kendi seçimlerini yapanlar, bu seçimin diğer insanlar arasında da [[çoğunlukta]] olduğunu tahmin etti."
+    },
+    {
+      "title": "NEDEN OLUYOR?",
+      "body": "Çünkü çevremiz genelde bize benzeyen insanlarla dolu. Benzer düşünen insanlarla vakit geçirmek 'herkes böyle düşünür' hissini güçlendiriyor, oysa bu sadece küçük bir [[örneklem]]."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bir sonraki tartışmada 'herkes böyle düşünüyor' dediğinde bir an dur. Gerçekten herkes mi, yoksa sadece [[senin çevren]] mi öyle düşünüyor?"
+    }
+  ],
+  "caption": "Bir tartışmada 'ama herkes böyle düşünüyor' dediğin oldu mu hiç? 🤔\n\nAslında bunun arkasında ilginç bir yanılgı var: insanlar kendi görüşlerinin gerçekte olduğundan çok daha yaygın olduğunu düşünür, ama bunun farkında değildir. Çünkü çevremiz genelde bize benzeyenlerden oluşuyor ve bu küçük daireyi tüm dünya sanıyoruz.\n\nBu durum özellikle tartışmalarda ve ilişkilerde kafa karıştırıyor; çünkü karşımızdakinin de aynı yanılgıya düştüğünü unutuyoruz.\n\nSen hiç 'herkes bunu düşünüyor' dedikten sonra aslında öyle olmadığını fark ettin mi? 💭",
+  "hashtags": [
+    "#psikoloji",
+    "#sosyalpsikoloji",
+    "#merakzihin",
+    "#davranisbilimi",
+    "#biliyormuydun",
+    "#zihin",
+    "#iletisim",
+    "#onyargilar",
+    "#bilisselyanilgi",
+    "#iliskiler"
+  ],
+  "source": "Ross, Greene & House (1977), 'The False Consensus Effect: An Egocentric Bias in Social Perception and Attribution Processes', Journal of Experimental Social Psychology",
+  "slot": "aksam",
+  "verify_notes": [
+    "Kaynaktaki makale başlığı eksik/yanlış verilmiş: Gerçek başlık 'The false consensus effect: An egocentric bias in social perception and attribution processes' şeklindedir, kısaltılmış başlık yanıltıcı olabilir.",
+    "Caption'daki 'sandıklarından çok daha az yaygın olduğunu fark etmiyor' ifadesi anlamca doğru olsa da dolaylı ve kafa karıştırıcı kurulmuş; netleştirildi.",
+    "Küçük yazım/akıcılık düzeltmeleri yapıldı."
+  ]
+}
