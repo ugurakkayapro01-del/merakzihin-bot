@@ -1,0 +1,42 @@
+{
+  "topic_key": "ay-gelgit-kilitlenmesi-gizli-yuz",
+  "category": "uzay",
+  "headline": "[[Ay]]'ın hiç görmediğin bir yüzü var",
+  "subline": "Binlerce yıldır hep aynı tarafına bakıyoruz",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Ay, kendi ekseni etrafında dönüyor. Ama bu dönüş, Dünya çevresindeki turuyla [[tam olarak aynı süreyi]] alıyor: yaklaşık 27,3 gün. Bu yüzden hep aynı yüzünü görürsün."
+    },
+    {
+      "title": "TESADÜF DEĞİL",
+      "body": "Buna \"gelgit kilitlenmesi\" denir. Dünya'nın çekim gücü, milyonlarca yıl boyunca Ay'ın dönüşünü yavaşlatmış ve iki hareketi birbirine kilitlemiş. Artık Ay, Dünya'ya karşı [[hep aynı yöne]] bakıyor."
+    },
+    {
+      "title": "GİZLİ YÜZ",
+      "body": "Ay'ın arka yüzünü insanlık ilk kez 1959'da, bir uzay aracının gönderdiği fotoğraflarla gördü. O ana kadar binlerce yıl boyunca kimse onun nasıl göründüğünü bilmiyordu."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Gökyüzüne her baktığında, aslında [[hep aynı taraf]] seni izliyor. Belki de bazı şeyler, hep aynı yüzünü gösterdiği için tanıdık gelir; arkasında ne olduğunu hiç bilmesek bile."
+    }
+  ],
+  "caption": "Ay'a her baktığında aslında hep aynı yüzü görürsün. Bu bir tesadüf değil. 🌙\n\nAy'ın dönüş hızı ile Dünya etrafındaki turu, milyonlarca yıl önce birbirine kilitlenmiş. Bilim insanları buna \"gelgit kilitlenmesi\" diyor. Sonuç: Ay'ın arka yüzünü insanlık ancak 1959'da, bir uzay aracı sayesinde görebildi.\n\nBinlerce yıl boyunca atalarımız gökyüzüne bakıp hep aynı deseni gördü, ama evrenin geri kalanı gibi Ay'ın da gizli bir tarafı vardı.\n\nSence hayatında, hep \"aynı yüzünü\" gösteren ama arkasında neler sakladığını bilmediğin şeyler var mı? 🤔",
+  "hashtags": [
+    "#uzay",
+    "#astronomi",
+    "#ay",
+    "#evren",
+    "#bilim",
+    "#merakzihin",
+    "#nasa",
+    "#gökyüzü",
+    "#bilimsel",
+    "#uzayınsırları",
+    "#zaman",
+    "#keşif"
+  ],
+  "source": "NASA Ay gerçekleri ve güneş sistemi mekaniği; gelgit kilitlenmesi (tidal locking) konusu genel astronomi literatüründe yerleşik bir olgudur.",
+  "slot": "gece_gec",
+  "verify_notes": []
+}
