@@ -1,0 +1,42 @@
+{
+  "topic_key": "rem-yogunlasma-sabah-uyanma",
+  "category": "uyku",
+  "headline": "Gece Hep [[Aynı Saatte]] mi Uyanıyorsun?",
+  "subline": "Bunun arkasında basit bir biyoloji var",
+  "slides": [
+    {
+      "title": "GERÇEK ŞU Kİ",
+      "body": "Gece ilerledikçe uyku döngün değişir. İlk saatlerde derin uyku ağır basar, sabaha yaklaştıkça [[REM uykusu]] giderek uzar ve uykun yüzeysel hale gelir."
+    },
+    {
+      "title": "NEDEN",
+      "body": "Vücut sıcaklığın gece boyunca yavaşça düşer ve sabaha karşı en düşük noktasına ulaşır. Bu düşüş, beynin uyanıklığa geçişini kolaylaştırır; küçük bir ses bile seni bu dönemde uyandırabilir."
+    },
+    {
+      "title": "PEKİ RÜYALAR",
+      "body": "Sabaha yakın REM dönemleri hem daha uzun hem daha yoğun olur. Hatırladığın rüyaların çoğu, genelde o son ve en canlı REM döneminden kalır."
+    },
+    {
+      "title": "SEN NE DÜŞÜNÜYORSUN",
+      "body": "Hiç gece hep benzer bir saatte gözlerin açıldı mı? Belki de bedenin sana kendi ritmini gösteriyordur."
+    }
+  ],
+  "caption": "Gece yarısından sonra bir an gözlerin açılıyor, saate bakıyorsun ve garip bir şekilde hep benzer bir saat çıkıyor karşına. Bunda rastlantının payı az; vücudun sıcaklık ritmi ve uyku evrelerinin doğal akışı bu örüntüde önemli bir rol oynuyor 💤\n\nSabaha yaklaştıkça uykun daha hassas, rüyaların daha canlı hale geliyor. Yani o uyanma anı aslında zihninin REM'den çıkış anı olabilir.\n\nSen hiç gece hep aynı saatte uyandığını fark ettin mi?",
+  "hashtags": [
+    "#uyku",
+    "#ruya",
+    "#beyin",
+    "#psikoloji",
+    "#biyoloji",
+    "#merakzihin",
+    "#bilim",
+    "#uykudüzeni",
+    "#rem",
+    "#gecece"
+  ],
+  "source": "Uyku mimarisi araştırmaları; Matthew Walker, Why We Sleep; sirkadiyen ritim ve vücut ısısı üzerine NIH destekli uyku çalışmaları",
+  "slot": "gece",
+  "verify_notes": [
+    "Caption'daki 'Bu tesadüf değil' ifadesi, aynı saatte uyanmayı tek başına sıcaklık ritmi/REM döngüsüyle açıklayarak biraz fazla kesin bir nedensellik kuruyor; uyanma saatini ışık, ses, mesane, alarm beklentisi gibi başka etkenler de etkiler. Küçük bir nüans eklenerek yumuşatıldı."
+  ]
+}
