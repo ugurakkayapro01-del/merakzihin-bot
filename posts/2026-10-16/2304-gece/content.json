@@ -1,0 +1,43 @@
+{
+  "topic_key": "glimfatik-sistem-gece-beyin-temizligi",
+  "category": "uyku",
+  "headline": "Beynin Gece [[Kendini Yıkıyor]]",
+  "subline": "Uyurken zihninde sessiz bir temizlik başlar",
+  "slides": [
+    {
+      "title": "GÜN BOYU",
+      "body": "Beynin, tıpkı yorulan bir kas gibi, düşündükçe ve çalıştıkça hücreler arasında atık madde biriktirir. Bu atıklar günün sonunda birikmiş hâlde kalır."
+    },
+    {
+      "title": "NASIL?",
+      "body": "Derin uykuya geçtiğinde beyin hücreleri arasındaki boşluk genişler. Beyin omurilik sıvısı bu boşluklardan akarak biriken atıkları [[yıkayıp]] temizler."
+    },
+    {
+      "title": "KEŞİF",
+      "body": "Bu temizlik ağına 'glimfatik sistem' deniyor ve 2012'de bilim insanları tarafından tanımlandı. Yeterince uyumadığında bu sistem yavaşlıyor ve atıklar birikmeye devam ediyor."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bu gece ışığı kapattığında, beynin görünmeden [[kendi bakımını]] yapmaya başlayacak. Bir dahaki uykuya bu gözle bakar mısın?"
+    }
+  ],
+  "caption": "Gece uyurken sadece dinlenmiyorsun, beynin sessizce bir bakım sürecinden geçiyor. Hücreler arası boşluklar genişliyor, biriken atıklar beyin omurilik sıvısıyla yıkanıyor. 🧠\n\nBu sisteme bilim insanları 'glimfatik sistem' diyor ve keşfi oldukça yeni. Uyku yoksunluğunun sadece yorgunluk değil, bu temizlik mekanizmasını da yavaşlattığı gösterilmiş.\n\nYani her uyuduğunda beynin kendine küçük bir bakım randevusu ayarlıyor. Sen uykunu nasıl görüyorsun, sadece dinlenme mi yoksa bir yenilenme mi?",
+  "hashtags": [
+    "#beyin",
+    "#uyku",
+    "#biliminsanlari",
+    "#noroloji",
+    "#merakedenzihin",
+    "#uykudüzeni",
+    "#saglik",
+    "#bilgi",
+    "#gecerutini",
+    "#zihin"
+  ],
+  "source": "Nedergaard ve ark., Science (2013); NIH / National Institute of Neurological Disorders and Stroke uyku araştırmaları",
+  "slot": "gece",
+  "verify_notes": [
+    "Birinci slaytta 'artık madde' ifadesi yazım hatası; doğrusu 'atık madde' olmalı (metnin geri kalanıyla tutarlılık için).",
+    "Üçüncü ve dördüncü cümlelerde virgülle bağlanan bağımsız cümlecikler (virgül kuraldışı kullanımı) var; bağlaç veya noktalama ile düzeltilmeli."
+  ]
+}
