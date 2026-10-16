@@ -1,0 +1,43 @@
+{
+  "topic_key": "aliskanlik-ilmegi-ipucu-rutin-odul",
+  "category": "davranis",
+  "headline": "Sabahları beynin seni [[otomatiğe]] alır",
+  "subline": "Bir ilmek, her hareketini senin yerine yönetir",
+  "slides": [
+    {
+      "title": "FARKINDA MISIN?",
+      "body": "Kalkar kalkmaz hep aynı sırayla hareket edersin: telefon, musluk, kahve. Bunu her sabah yeniden düşünerek seçmiyorsun, beynin seni oraya [[kendiliğinden]] götürüyor."
+    },
+    {
+      "title": "İLMEK NASIL KURULUR?",
+      "body": "Nörobilimciler buna alışkanlık ilmeği der: bir ipucu seni tetikler, bir rutin devreye girer, küçük bir ödül bunu pekiştirir. Bazal ganglion adı verilen bölge bu döngüyü ezberler."
+    },
+    {
+      "title": "OTOPİLOT DEVREDE",
+      "body": "İlmek yerleştiğinde karar veren ön beyin bölgenin etkinliği azalır, iş büyük ölçüde bazal ganglionlara geçer. Beynin enerji tasarrufu yapar; davranış artık [[düşünmeden]] akar."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bu sabah ilk hareketini tetikleyen ipucu neydi? Alarmın mı, ışık mı, yoksa bir ses mi? Bir sonraki ilmeği fark ederek değiştirebilirsin."
+    }
+  ],
+  "caption": "Sabahları neden hep aynı sırayla hareket ettiğini hiç düşündün mü? Aslında bilinçli bir seçim yapmıyorsun; beynin seni küçük bir döngüyle yönlendiriyor: ipucu, rutin, ödül. ☕\n\nMIT'teki nörobilim araştırmaları, bu döngü yerleştiğinde beynin karar veren bölgesinin etkinliğinin azaldığını, işin bazal ganglion denen daha eski bir bölgeye geçtiğini gösteriyor. Yani alışkanlık, beynin enerji tasarrufu yapma biçimi.\n\nBunu bilmek güçlü bir şey: ilmeği fark edersen, onu kırmak ya da yeniden şekillendirmek senin elinde.\n\nSenin bu sabahki ilk otomatik hareketin neydi? 🧠",
+  "hashtags": [
+    "#psikoloji",
+    "#nörobilim",
+    "#alışkanlık",
+    "#davranış",
+    "#sabahrutini",
+    "#beyin",
+    "#öğrenme",
+    "#motivasyon",
+    "#meraklızihin",
+    "#merakedenzihinbüyür"
+  ],
+  "source": "Graybiel, MIT – bazal ganglion ve alışkanlık oluşumu araştırmaları; Duhigg, The Power of Habit",
+  "slot": "sabah",
+  "verify_notes": [
+    "\"#meraklzihin\" hashtag'inde yazım eksikliği var (muhtemelen \"meraklızihin\" olmalı)",
+    "\"Ön beyin bölgen devre dışı kalır\" ifadesi hafif kesin/basitleştirilmiş bir anlatım; gerçekte prefrontal korteks aktivitesi azalır, tamamen kapanmaz — ifade yine de popüler bilim anlatımı sınırları içinde kabul edilebilir"
+  ]
+}
