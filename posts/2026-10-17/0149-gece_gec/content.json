@@ -1,0 +1,40 @@
+{
+  "topic_key": "olbers-paradoksu-karanlik-gece-gokyuzu",
+  "category": "uzay",
+  "headline": "Gece gökyüzü neden [[karanlık]]?",
+  "subline": "Sonsuz yıldız varsa, her yer ışıl ışıl olmalıydı",
+  "slides": [
+    {
+      "title": "SORU",
+      "body": "Evrende sayısız yıldız var. Bakış açını hangi yöne çevirirsen çevir, önünde bir yıldız olmalı. O zaman gece neden [[aydınlık]] değil?"
+    },
+    {
+      "title": "PARADOKS",
+      "body": "Buna bilim tarihinde \"Olbers Paradoksu\" denir. Basit görünen bu soru, yüzyıllarca astronomları derinden düşündürmüş."
+    },
+    {
+      "title": "CEVAP",
+      "body": "Evrenin yaşı sonlu, yani bazı yıldızların ışığı henüz bize ulaşmadı. Ayrıca evren genişledikçe, uzak ışıklar [[gözden kayboluyor]], görünmez dalga boylarına kayıyor."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Şu an gökyüzünde gördüğün karanlık boşluklar, belki de ışığı henüz yola çıkmamış bir evrenin izi. Sen gökyüzüne en son ne zaman gerçekten baktın?"
+    }
+  ],
+  "caption": "Gece gökyüzüne baktığında her yer yıldızla dolu değil, çoğu yer karanlık. Oysa evrende sonsuza yakın yıldız varsa, bu hiç mantıklı değil. ✨\n\nİşte bu basit gözlem, yüzyıllarca bilim insanlarını uğraştırmış bir paradoksun kapısını açıyor: Olbers Paradoksu. Cevap, evrenin sonsuz değil sonlu yaşta olmasında ve durmadan genişlemesinde saklı.\n\nYani o karanlık boşluklar aslında boş değil, sadece ışığı bize henüz ulaşmamış. Sen hiç gökyüzüne bakarken bunu düşündün mü?",
+  "hashtags": [
+    "#uzay",
+    "#astronomi",
+    "#evren",
+    "#bilim",
+    "#merakzihin",
+    "#fizik",
+    "#kozmoloji",
+    "#gokyuzu",
+    "#bilgi",
+    "#sasirtici"
+  ],
+  "source": "Edward Harrison, Darkness at Night: A Riddle of the Universe; NASA astrofizik kaynakları",
+  "slot": "gece_gec",
+  "verify_notes": []
+}
