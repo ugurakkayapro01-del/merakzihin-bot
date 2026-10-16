@@ -1,0 +1,42 @@
+{
+  "topic_key": "spinal-refleks-aci-elini-cekme",
+  "category": "vucut",
+  "headline": "Elini [[Çekersin]], Beyne Haber Gitmeden",
+  "subline": "Acıyı hissetmeden önce bedenin zaten tepki verir",
+  "slides": [
+    {
+      "title": "NASIL?",
+      "body": "Elin sıcak bir yüzeye değdiğinde, sinir uçları bu tehlikeyi önce [[omuriliğe]] iletir. Omurilik, beyne hiç danışmadan kasına 'hemen çekil' emrini verir."
+    },
+    {
+      "title": "NEDEN?",
+      "body": "Beynin bilgiyi işleyip karar vermesi zaman alır. Omurilikteki bu kısa devre, vücudunu daha büyük bir zarardan korumak için [[evrimleşmiş]] bir acil durum sistemidir."
+    },
+    {
+      "title": "PEKİ ACI?",
+      "body": "Acı hissi, elini çektikten saniyenin çok küçük bir parçası sonra beynine ulaşır. Yani önce kurtulursun, sonra 'ay' dersin; sıralama tam tersi değildir."
+    },
+    {
+      "title": "SEN FARK ETTİN Mİ?",
+      "body": "Bir dahaki sefere sıcak bir şeye yanlışlıkla dokunduğunda, elini önce çektiğini, acıyı ancak sonra hissettiğini fark edebilir misin?"
+    }
+  ],
+  "caption": "Elini sıcak bir tencereye değdirdiğinde aslında beynin değil, omuriliğin karar veriyor. Vücudun seni korumak için bazen beyni bile beklemiyor; bu yüzden tepki, bilinçli bir düşünceden çok daha hızlı gerçekleşiyor. 🧠\n\nBu küçük 'kısa devre', evrimin sana verdiği sessiz bir hediye aslında. Milisaniyeler bazen büyük bir fark yaratıyor.\n\nSen hiç bir şeye dokunduğunda elini çektiğini fark etmeden, acıyı bir an sonra hissettiğin oldu mu?",
+  "hashtags": [
+    "#beyin",
+    "#sinirbilim",
+    "#insanvucudu",
+    "#refleks",
+    "#biyoloji",
+    "#saglik",
+    "#bilim",
+    "#meraklizihin",
+    "#psikoloji",
+    "#vucudumuz"
+  ],
+  "source": "İnsan fizyolojisi ders kitapları (Guyton & Hall, Textbook of Medical Physiology); refleks arkı ve nosisepsiyon üzerine NIH/nörobilim kaynakları",
+  "slot": "ogle",
+  "verify_notes": [
+    "\"sinir uçların\" ifadesi dil bilgisi açısından hatalı; \"sinir uçları\" olmalı (özne konumunda yanlış iyelik eki kullanımı)."
+  ]
+}
