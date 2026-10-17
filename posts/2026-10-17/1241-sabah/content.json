@@ -1,0 +1,42 @@
+{
+  "topic_key": "soguk-su-dalis-refleksi-sakinlik",
+  "category": "vucut",
+  "headline": "Soğuk Su Neden Seni [[Sakinleştirir]]?",
+  "subline": "Yüzüne değen suyun şaşırtıcı sinir etkisi",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Yüzüne soğuk su değdiğinde beden, [[dalış refleksi]] denen çok eski bir tepki verir. Kalp atış hızın yavaşlar, sinir sistemin birkaç saniye içinde sakinleşmeye başlar."
+    },
+    {
+      "title": "NASIL?",
+      "body": "Bu refleks, atalarımızın suya daldığında oksijeni korumak için geliştirdiği bir savunma mekanizmasından kalma. Göz çevresi ve yüzdeki soğukluk, [[vagus siniri]] üzerinden bedeni yavaşlatan bir sinyal gönderir."
+    },
+    {
+      "title": "KULLANIM",
+      "body": "Bu yüzden bazı terapi yöntemlerinde yoğun stres anında yüze soğuk su çarpmak önerilir. Beden, zihin sakinleşmeden önce fiziksel olarak [[sakin moda]] geçebilir."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Yarın sabah yüzünü yıkarken suyun biraz daha soğuk olmasına izin ver. Birkaç saniye içinde bedeninde neyin değiştiğini fark edebilir misin?"
+    }
+  ],
+  "caption": "Sabahları yüzüne çarpan o soğuk suyun aslında bedeninde küçük bir fizyolojik olay başlattığını biliyor muydun? Bu tepki, binlerce yıl önce atalarımızın hayatta kalmak için geliştirdiği bir mekanizmadan geliyor.\n\nBugün bu refleks, stresli anlarda bedeni sakinleştirmek için bilinçli şekilde kullanılıyor. Küçük bir alışkanlık, sinir sistemin üzerinde gerçek bir etki yaratabiliyor.\n\nSen hiç farkında olmadan bu tepkiyi yaşadın mı? Yorumlarda paylaş 🌊",
+  "hashtags": [
+    "#psikoloji",
+    "#sabahrutini",
+    "#biyoloji",
+    "#sinirsistemi",
+    "#merakzihin",
+    "#bilim",
+    "#zihin",
+    "#stresyonetimi",
+    "#oznebakim",
+    "#vucut"
+  ],
+  "source": "Dialectical Behavior Therapy (Linehan) stres düzenleme teknikleri; mammalian dive reflex literatürü; Guyton & Hall İnsan Fizyolojisi (vagal tonus ve kalp hızı düzenlemesi)",
+  "slot": "sabah",
+  "verify_notes": [
+    "\"Yüzüne soğuk su değdiğinde bedenin, [[dalış refleksi]] denen çok eski bir tepki verir\" cümlesinde iyelik eki (bedenin) ile fiil çekimi uyumsuz; \"beden\" özne olarak düzeltilmeli."
+  ]
+}
