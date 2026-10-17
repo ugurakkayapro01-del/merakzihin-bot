@@ -1,0 +1,43 @@
+{
+  "topic_key": "kozmik-mikrodalga-arka-plan-isimasi",
+  "category": "uzay",
+  "headline": "Evrenin [[ilk ışığı]] hâlâ her yerde",
+  "subline": "Büyük Patlama'dan kalma bir ışık seni sarıyor",
+  "slides": [
+    {
+      "title": "NE OLDU?",
+      "body": "Büyük Patlama'dan yaklaşık 380 bin yıl sonra evren yeterince soğudu ve ışık ilk kez serbestçe yayılmaya başladı. O ilk ışık, hâlâ evrende yol alıyor."
+    },
+    {
+      "title": "NEREDE?",
+      "body": "Bu ışığa Kozmik Mikrodalga Arka Plan Işıması deniyor. Gökyüzünün her noktasına neredeyse eşit dağılmış durumda; eski televizyonlardaki parazitin bir kısmı bile bu ışıktan geliyor."
+    },
+    {
+      "title": "RASTLANTI",
+      "body": "1965'te iki radyo astronomu, antenin bozuk olduğunu sanıp bu sinyali gidermeye çalıştı. Sonradan bunun evrenin [[bebek fotoğrafı]] olduğu anlaşıldı ve keşif Nobel Ödülü'yle sonuçlandı."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Şu an başını kaldırıp karanlık görsen bile, çevren evrenin en eski ışığıyla dolu. Milyarlarca yıl önceki bir anın izini taşıyorsun aslında. Bunu düşünmek sende ne uyandırıyor?"
+    }
+  ],
+  "caption": "Gece gökyüzüne baktığında sadece karanlık görürsün ama aslında her yön, evrenin en eski ışığıyla dolu. Büyük Patlama'dan kısa süre sonra yayılan bu ışık, milyarlarca yıldır soğuyarak yol alıyor ve hâlâ etrafımızda.\n\nİlginç olan şu: bu ışığı keşfeden bilim insanları onu aramıyordu bile. Antenin bozuk olduğunu sanıp düzeltmeye çalışırken evrenin en eski izini bulduklarını fark ettiler.\n\nBazen en büyük keşifler, aradığımız şey değil, açıklayamadığımız küçük bir aksaklıktan çıkar. Sence evrenin bu kadar eski bir izini taşıyor olmak neyi değiştirir? 🌌",
+  "hashtags": [
+    "#evren",
+    "#uzay",
+    "#bilim",
+    "#fizik",
+    "#kozmoloji",
+    "#merakzihin",
+    "#buyukpatlama",
+    "#astrofizik",
+    "#bilgi",
+    "#sasirticigercekler"
+  ],
+  "source": "NASA WMAP ve Planck misyonları; Penzias & Wilson, 1965 Kozmik Mikrodalga Arka Plan Işıması keşfi (Nobel Ödülü, 1978)",
+  "slot": "gece_gec",
+  "verify_notes": [
+    "\"İki radyo mühendisi\" ifadesi hafif yanıltıcı: Penzias ve Wilson fizik doktoralı radyo astronomlarıydı, sadece mühendis değillerdi; bu nedenle \"radyo astronomu\" ifadesi daha doğru.",
+    "\"anten bozuk sanıp\" ifadesinde belirtme eki eksik, dil bilgisi açısından düzeltildi: \"antenin bozuk olduğunu sanıp\"."
+  ]
+}
