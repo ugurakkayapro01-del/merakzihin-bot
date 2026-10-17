@@ -1,0 +1,40 @@
+{
+  "topic_key": "kayiptan-kacinma-onyargisi",
+  "category": "davranis",
+  "headline": "Kaybetmek neden [[kazanmaktan]] daha çok sarsar?",
+  "subline": "Beynin kayıpları kazançlardan daha ağır tartıyor",
+  "slides": [
+    {
+      "title": "DENEY",
+      "body": "Kahneman ve Tversky, insanlara eşit ihtimalli kazanç-kayıp oyunları sundu. Çoğu kişi oyunu reddetti çünkü kaybetme ihtimali, [[kazanma ihtimalinden]] daha ağır bastı."
+    },
+    {
+      "title": "NEDEN?",
+      "body": "Araştırmalara göre bir şeyi kaybetmenin verdiği acı, aynı değerde bir şeyi kazanmanın verdiği mutluluktan yaklaşık [[iki kat]] daha güçlü hissedilir."
+    },
+    {
+      "title": "GÜNLÜK HAYATTA",
+      "body": "Bu yüzden kötü giden bir ilişkiyi bitirmek, yeni bir fırsatı denemekten daha korkutucu gelir. Kaybetme korkusu, kazanma isteğinden [[sessizce]] daha güçlüdür."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bugün aldığın bir karara bak. Onu kazanmak için mi, yoksa kaybetmemek için mi verdin? Fark, sandığından büyük olabilir."
+    }
+  ],
+  "caption": "Bir şeyi kaybetme düşüncesi, onu kazanma düşüncesinden çok daha ağır basar. Kahneman ve Tversky'nin ortaya koyduğu bu eğilim, 'kayıptan kaçınma' olarak biliniyor ve ekonomiden ilişkilere kadar her kararımızda sessizce iş başında. 🧠\n\nBelki de bu yüzden bozuk bir ilişkiyi bitirmek, yeni birine açılmaktan daha zor gelir. Ya da elindeki işi bırakıp yeni bir fırsata atılmak bu kadar cesaret ister.\n\nSen son aldığın büyük kararı düşün: Bir şey kazanmak için mi, yoksa bir şeyi kaybetmemek için mi karar verdin?",
+  "hashtags": [
+    "#psikoloji",
+    "#sosyalpsikoloji",
+    "#davranışbilimi",
+    "#kararverme",
+    "#bilişselyanılgı",
+    "#kayıptankaçınma",
+    "#merakzihin",
+    "#zihin",
+    "#kişiselgelişim",
+    "#içgörü"
+  ],
+  "source": "Kahneman & Tversky (1979), Prospect Theory; Kahneman, Thinking, Fast and Slow",
+  "slot": "aksam",
+  "verify_notes": []
+}
