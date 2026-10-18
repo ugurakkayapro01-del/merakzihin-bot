@@ -1,0 +1,40 @@
+{
+  "topic_key": "entropi-zamanin-oku",
+  "category": "bilim",
+  "headline": "Zaman Neden Sadece [[İleri]] Akar?",
+  "subline": "Evrenin düzensizliği, zamanın yönünü belirliyor",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Fiziğin çoğu yasası zamana karşı kayıtsızdır, geçmişe de geleceğe de aynı şekilde işler. Ama kırılan bir bardak kendiliğinden eski hâline dönmez, değil mi?"
+    },
+    {
+      "title": "ENTROPİ",
+      "body": "Termodinamiğin ikinci yasasına göre evren hep [[düzensizliğe]] doğru ilerler. Zamanın bir yönü olmasının sebebi, bu sürekli artan düzensizliktir."
+    },
+    {
+      "title": "BAŞLANGIÇ",
+      "body": "Büyük Patlama anında evren akıl almaz derecede düzenliydi. O andan beri düzensizlik hiç durmadan arttı, zaman da hep bu yönde aktı."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Anılarının hep geçmişe dönük olması, geleceği asla hatırlayamaman bile bu artan düzensizlikle ilişkili olabilir. Zamanı hiç bu şekilde düşünmüş müydün?"
+    }
+  ],
+  "caption": "Bir bardağın kendiliğinden kırılıp parçalarının yeniden birleştiğini hiç gördün mü? İşte tam da bunun imkânsız olması, zamanın neden sadece ileri doğru aktığını açıklıyor. 🌌\n\nFiziğin çoğu yasası aslında zamana karşı kayıtsızdır, geçmişe de geleceğe de aynı şekilde çalışır. Ama evren, Büyük Patlama'dan bu yana sürekli artan bir düzensizliğe doğru ilerliyor. Zamanın \"oku\" dediğimiz şey tam olarak bu.\n\nBelki de senin hiç geleceği hatırlayamaman, sadece geçmişi anımsayabilmen de bu kozmik düzensizlikle bağlantılı. Sence zaman gerçekten tek yönlü mü akıyor, yoksa bizim algımız mı öyle?",
+  "hashtags": [
+    "#merakzihin",
+    "#bilim",
+    "#evren",
+    "#fizik",
+    "#zaman",
+    "#entropi",
+    "#kozmoloji",
+    "#uzay",
+    "#ilginçbilgiler",
+    "#zihinaçan"
+  ],
+  "source": "Termodinamiğin ikinci yasası (entropi); Stephen Hawking, A Brief History of Time; Sean Carroll, From Eternity to Here",
+  "slot": "gece_gec",
+  "verify_notes": []
+}
