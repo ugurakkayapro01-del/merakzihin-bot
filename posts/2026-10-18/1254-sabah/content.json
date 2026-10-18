@@ -1,0 +1,42 @@
+{
+  "topic_key": "kendine-adinla-seslenme-ozmesafe",
+  "category": "psikoloji",
+  "headline": "Kendinle [[Adınla]] Konuş",
+  "subline": "Sabah küçük bir dil değişikliği, günü değiştirebilir",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Sabah aynada \"Ben yapabilirim\" yerine kendi adınla \"Sen yapabilirsin\" demek kulağa tuhaf gelebilir. Ama bu küçük değişiklik, zihninde beklenmedik bir [[mesafe]] yaratıyor."
+    },
+    {
+      "title": "BİLİM NE DİYOR?",
+      "body": "Psikolog Ethan Kross'un araştırmalarına göre kendine adınla ya da \"sen\" diyerek seslenmek, zor anlarda [[duygusal mesafe]] kurmanı kolaylaştırıyor. Beyin, olayı sanki başkasının başına geliyormuş gibi işliyor."
+    },
+    {
+      "title": "SABAHA ETKİSİ",
+      "body": "Bu mesafe, kaygıyı azaltıp daha sakin karar vermeni sağlıyor. Zor bir sunumdan önce \"Ben çok heyecanlıyım\" yerine kendi adınla konuşmanın performansı [[iyileştirebildiği]] gözlemlenmiş."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Yarın sabah zorlandığın bir anda kendine adınla seslenmeyi dener misin? Belki de \"ben\" değil, kendi adın seni biraz daha güçlü hissettirir."
+    }
+  ],
+  "caption": "Sabahları kendi kendimizle konuşma şeklimiz, aslında o günün gidişatını bile etkileyebiliyor. 🧠\n\nPsikolog Ethan Kross'un çalışmaları, kendine \"ben\" yerine adınla ya da \"sen\" diyerek seslenmenin zihinsel bir mesafe yarattığını, bu mesafenin de stresi azaltıp daha net düşünmeni sağladığını gösteriyor. Sanki bir arkadaşına akıl veriyormuşsun gibi.\n\nKüçük bir alışkanlık değişikliği gibi görünse de, zor bir sabahta fark yaratabilecek türden bir bilgi.\n\nSen hiç kendinle adınla konuştun mu, yoksa hep \"ben\" mi dedin? 👇",
+  "hashtags": [
+    "#psikoloji",
+    "#merakzihin",
+    "#sabahrutini",
+    "#ozfarkindalik",
+    "#motivasyon",
+    "#davranisbilimi",
+    "#zihin",
+    "#kisiselgelisim",
+    "#bilim",
+    "#ozmesafe"
+  ],
+  "source": "Kross, E. ve ark. (2014), Journal of Personality and Social Psychology; self-distancing ve öz-konuşma araştırmaları, University of Michigan",
+  "slot": "sabah",
+  "verify_notes": [
+    "\"SABAHA ETKİSİ\" slaytındaki cümle yapısı biraz dolambaçlı: \"performansı iyileştirdiği gözlenen durumlar arasında\" ifadesi akıcılığı bozuyor, daha net bir yapıyla düzeltildi."
+  ]
+}
