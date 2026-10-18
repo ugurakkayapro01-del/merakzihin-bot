@@ -1,0 +1,43 @@
+{
+  "topic_key": "beyin-enerji-tuketimi-orani",
+  "category": "beyin",
+  "headline": "Beynin vücudunun [[beşte biri]] kadar enerji harcar",
+  "subline": "Beyin, ağırlığının sadece yüzde ikisi olmasına rağmen",
+  "slides": [
+    {
+      "title": "ŞAŞIRTICI ORAN",
+      "body": "Beyin, vücut ağırlığının yaklaşık [[%2'si]] kadardır. Ama vücudun harcadığı toplam enerjinin yaklaşık %20'sini tek başına kullanır. Hiç durmadan."
+    },
+    {
+      "title": "NEDEN?",
+      "body": "Milyarlarca nöron, sen hiç fark etmesen bile sürekli elektriksel sinyal gönderir. Kalbini attırmak, nefes almanı sağlamak, anıları saklamak hep arka planda sessizce sürer."
+    },
+    {
+      "title": "YANLIŞ BİLİNEN",
+      "body": "Zor bir problem çözmek beynin enerji harcamasını [[ciddi şekilde artırmaz]]. Çünkü beynin çoğu enerjisi zaten dinlenirken bile çalışan temel ağları ayakta tutmaya gider."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "'Hiçbir şey düşünmüyorum' dediğin anlarda bile beynin tam gaz çalışıyor olabilir. Şimdi, bu satırı okurken bile."
+    }
+  ],
+  "caption": "Beynin ağırlığı tüm vücudunun sadece yaklaşık yüzde ikisi. Ama enerji faturasına gelince durum tamamen değişiyor: vücudun harcadığı enerjinin yaklaşık beşte biri sadece beyne gidiyor 🧠\n\nİlginç olan şu: bu enerjinin büyük kısmı sen 'zor düşünürken' değil, beynin arka planda hep açık kalan ağlarını çalıştırırken harcanıyor. Yani dinlenirken bile beynin sessizce büyük bir iş çıkarıyor.\n\nBir dahaki sefere 'hiçbir şey düşünmüyorum' dediğinde, aslında beyninin ne kadar çalıştığını hiç merak ettin mi?",
+  "hashtags": [
+    "#beyin",
+    "#norobilim",
+    "#biyoloji",
+    "#insanvucudu",
+    "#bilim",
+    "#psikoloji",
+    "#meraklizihin",
+    "#bilimselgercekler",
+    "#ogrenmekguzeldir",
+    "#merakzihin"
+  ],
+  "source": "Raichle & Gusnard, 'Appraising the brain's energy budget', PNAS; NIH nörobilim verileri",
+  "slot": "ogle",
+  "verify_notes": [
+    "Headline'daki 'enerji yer' ifadesi gündelik dile uygun ama 'enerji harcar' daha doğru bir kullanım olurdu; anlam değişmediği için küçük bir düzeltme yapıldı.",
+    "Subline'daki cümle yapısı biraz dolaylıydı, akıcılık için küçük düzenleme yapıldı."
+  ]
+}
