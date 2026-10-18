@@ -1,0 +1,40 @@
+{
+  "topic_key": "batik-maliyet-yanilgisi",
+  "category": "davranis",
+  "headline": "Harcadığın [[emek]] seni rehin alır",
+  "subline": "Battığın yerden çıkamamanın bilimsel bir adı var",
+  "slides": [
+    {
+      "title": "NEDİR?",
+      "body": "Batık maliyet yanılgısı, geri getiremeyeceğin bir yatırımı (zaman, para, emek) sırf 'boşa gitmesin' diye sürdürmeye devam etmendir. Mantık değil, [[geçmişe bağlılık]] kararı verdirir."
+    },
+    {
+      "title": "NEDEN OLUR?",
+      "body": "Beynin, vazgeçmeyi kayıp olarak kodlar. Oysa doğru soru hep aynıdır: 'Bu işe şu an sıfırdan başlasaydım, yine girer miydim?' Geçmiş harcama bu sorunun [[cevabını değiştirmemeli]]."
+    },
+    {
+      "title": "HAYATTA NEREDE?",
+      "body": "Bitmeyen bir ilişkide, izlemekten sıkıldığın bir dizide, kâr etmeyen bir yatırımda... 'Bu kadar emek verdim, şimdi bırakamam' dediğin her an, geleceğini geçmişe kurban ediyorsun."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Sürdürdüğün bir şey var mı, sırf ona çok şey verdin diye? Bugün sıfırdan başlasan, [[yine aynı seçimi]] yapar mıydın?"
+    }
+  ],
+  "caption": "Bazen bir şeyi sevdiğin için değil, ona çok şey verdiğin için sürdürürsün. 😔\n\nBatık maliyet yanılgısı tam olarak bu: geçmişte harcadığın zaman, para veya emeği 'boşa gitmesin' diye geleceğini feda etmen. Oysa geri getiremeyeceğin bir şey, bugünkü kararını etkilememeli.\n\nEkonomistler bunu yatırım kararlarında inceler ama aslında ilişkilerden işlere, hobilere kadar hayatın her alanında karşımıza çıkar.\n\nPeki sen, sadece çok emek verdiğin için sürdürdüğün bir şey var mı? 🤔",
+  "hashtags": [
+    "#psikoloji",
+    "#davranışsalekonomi",
+    "#bilişselyanılgı",
+    "#karar",
+    "#merakzihin",
+    "#sosyalpsikoloji",
+    "#ilişkiler",
+    "#özfarkındalık",
+    "#zihin",
+    "#batıkmaliyet"
+  ],
+  "source": "Arkes & Blumer (1985), davranışsal ekonomi literatürü; Kahneman & Tversky'nin kayıptan kaçınma araştırmaları",
+  "slot": "aksam",
+  "verify_notes": []
+}
