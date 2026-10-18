@@ -1,0 +1,42 @@
+{
+  "topic_key": "ilk-gece-etkisi-yarim-kure-nobeti",
+  "category": "uyku",
+  "headline": "Yeni yerde [[neden]] huzursuz uyursun?",
+  "subline": "Beynin bir parçası seni gece boyunca izliyor",
+  "slides": [
+    {
+      "title": "OLAY",
+      "body": "Yabancı bir otelde, misafir odasında ya da arkadaşının evinde ilk gece genelde huzursuz uyursun. Ertesi sabah dinlenmemiş hissedersin, nedenini tam bilemezsin."
+    },
+    {
+      "title": "KANIT",
+      "body": "Brown Üniversitesi'nden nörobilimciler uyku sırasında beyin dalgalarını ölçtü. İlk gecede beynin [[sol yarım küresi]], sağ yarım küreye göre daha az derin uykuya geçiyor, daha hafif uyuyordu."
+    },
+    {
+      "title": "NEDEN",
+      "body": "Bu hafif uyanıklık bir tür nöbet tutma davranışı gibi görünüyor. Bazı deniz memelilerinde görülen yarım beyin uyanıklığının insandaki küçük bir izi olabilir; tanıdık olmayan ortam beynini tetikte tutuyor."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Aynı yerde ikinci gece uyuduğunda bu etki kayboluyor, beynin ortamı güvenli sayıyor. Sen hiç yeni bir yerde ilk gece tuhaf bir şekilde uyandığını fark ettin mi?"
+    }
+  ],
+  "caption": "Yabancı bir yatakta ilk gece hep daha kötü uyursun, değil mi? Bunun sebebi tesadüf değil. Beynin bir parçası, tam da sen uyurken, çevreni gözlemlemeye devam ediyor 🌙\n\nBrown Üniversitesi'ndeki araştırmacılar bunu laboratuvar ortamında ölçtü: ilk gece beynin sol yarım küresi diğerine göre daha hafif uyku moduna geçiyor. Sanki bir nöbetçi görevi üstleniyor.\n\nİkinci gece aynı yerde kalırsan bu fark kayboluyor, beynin ortamı artık güvenli sayıyor. Küçük ama etkileyici bir hayatta kalma kalıntısı.\n\nSen yeni bir yerde ilk geceni nasıl geçirirsin, hiç fark ettin mi?",
+  "hashtags": [
+    "#uyku",
+    "#beyin",
+    "#norobilim",
+    "#psikoloji",
+    "#rüya",
+    "#merakzihin",
+    "#biliminsanlari",
+    "#zihin",
+    "#uykudüzeni",
+    "#ilginçbilgiler"
+  ],
+  "source": "Sasaki, Tamaki ve ark., 2016, Current Biology; Brown Üniversitesi uyku araştırmaları ('First Night Effect')",
+  "slot": "gece",
+  "verify_notes": [
+    "Hashtag listesinde yazım hatası: '#noroblim' olmalı '#norobilim'"
+  ]
+}
