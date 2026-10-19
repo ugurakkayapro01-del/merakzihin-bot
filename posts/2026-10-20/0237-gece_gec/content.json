@@ -1,0 +1,40 @@
+{
+  "topic_key": "zamanin-goreliligi-simdi-algisi",
+  "category": "bilim",
+  "headline": "[[Şimdi]] dediğin an, herkes için aynı değil",
+  "subline": "Zaman, sandığından çok daha kişisel işliyor",
+  "slides": [
+    {
+      "title": "ŞAŞIRTICI GERÇEK",
+      "body": "Einstein'ın görelilik kuramına göre zaman herkes için aynı akmaz. Senin 'şu an' dediğin, hareket hâlindeki biri için henüz gelmemiş ya da çoktan geçmiş olabilir."
+    },
+    {
+      "title": "NEDEN?",
+      "body": "Işık hızı sabittir ama zaman ve uzay gözlemciye göre esner. Bu yüzden iki olaydan hangisinin önce yaşandığı, senin hızına ve konumuna bağlı olarak değişebilir."
+    },
+    {
+      "title": "ÖRNEK",
+      "body": "Işık hızına yakın giden bir gemideki kişi için, Dünya'da 'aynı anda' olan iki olay art arda gerçekleşmiş gibi görünür. İkisi de haklıdır, [[çünkü tek bir doğru 'şimdi' yoktur]]."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Şu an okuduğun bu cümle, evrenin başka bir köşesinde biri için belki de henüz gerçekleşmedi. Zamanın bu kadar kişisel olduğunu hiç düşünmüş müydün?"
+    }
+  ],
+  "caption": "Hepimiz zamanın tek, evrensel bir akışı olduğunu sanırız. Oysa fizik bize farklı bir şey söylüyor: 'şimdi' dediğin an, senin konumuna ve hızına bağlı bir algı.\n\nBu o kadar tuhaf bir fikir ki, günlük hayatta hiç fark etmeyiz çünkü hızlarımız ışık hızının yanında devede kulak kalır. Ama evrende, iki farklı gözlemci aynı iki olayın sırasını bile farklı yaşayabilir.\n\nSence zamanın bu kadar kişisel olması, 'an'ı yaşama biçimini değiştirir mi? 👇",
+  "hashtags": [
+    "#evren",
+    "#zaman",
+    "#fizik",
+    "#görelilik",
+    "#einstein",
+    "#bilim",
+    "#uzay",
+    "#merakzihin",
+    "#zihinaçan",
+    "#bilimgerçekleri"
+  ],
+  "source": "Einstein'ın Özel Görelilik Kuramı (1905); NASA ve üniversite fizik eğitim kaynakları",
+  "slot": "gece_gec",
+  "verify_notes": []
+}
