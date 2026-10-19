@@ -1,0 +1,40 @@
+{
+  "topic_key": "uyku-ataleti-snooze-etkisi",
+  "category": "uyku",
+  "headline": "O [[5 dakika]] seni daha yorgun yapar",
+  "subline": "Alarmı ertelemek dinlenmek değildir",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Uyandığın ilk dakikalarda beynin hâlâ yarı uykuda çalışır. Buna [[uyku ataleti]] denir; dikkat, hafıza ve karar verme bu sürede belirgin şekilde yavaşlar."
+    },
+    {
+      "title": "SNOOZE NE YAPAR?",
+      "body": "Alarmı erteleyip tekrar uyuduğunda beynin yarı uykulu hâli devam eder. Birkaç dakika sonra ikinci kez uyanmak bu durumu kısaltmaz, [[uzatır]]."
+    },
+    {
+      "title": "NE KADAR SÜRER?",
+      "body": "Araştırmalara göre bu etki genelde ilk 15-30 dakikada en güçlüdür, bazen daha uzun sürebilir. Tek seferde kalkmak bu süreyi kısaltmaya yardımcı olur."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Yarın alarmı hiç ertelemeden kalktığında zihninin ne kadar hızlı açıldığını fark edebilir misin?"
+    }
+  ],
+  "caption": "Sabah alarmını erteleyip o küçük uykuyu çalmak kulağa rahatlatıcı gelir ama beynin bunu öyle algılamıyor. O birkaç dakika yarı uykulu hâlin devam etmesine yetiyor, sonra ikinci uyanış seni daha da bulanık bırakıyor.\n\nUyku ataleti dediğimiz bu hâl aslında herkeste var; mesele onu uzatıp uzatmadığın. Tek seferde, aynı saatte kalkmak zihnin daha hızlı toparlanmasına yardımcı oluyor.\n\nSen alarmı kaç kere erteliyorsun, hiç saydın mı? 🌅",
+  "hashtags": [
+    "#psikoloji",
+    "#uyku",
+    "#sabahrutini",
+    "#merakzihin",
+    "#uykuhijyeni",
+    "#beyin",
+    "#biliminsani",
+    "#motivasyon",
+    "#ozgelisim",
+    "#verimlilik"
+  ],
+  "source": "Tassi & Muzet (2000), Sleep Medicine Reviews - 'Sleep inertia'; NIH uyku araştırmaları",
+  "slot": "sabah",
+  "verify_notes": []
+}
