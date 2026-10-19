@@ -1,0 +1,40 @@
+{
+  "topic_key": "tardigrad-uzay-boslugunda-hayatta-kalma",
+  "category": "bilim",
+  "headline": "Bu canlı [[uzayın boşluğunda]] bile ölmüyor",
+  "subline": "Dünyanın en dayanıklı canlısıyla tanış",
+  "slides": [
+    {
+      "title": "NASIL?",
+      "body": "2007'de tardigradlar (su ayıları) uzaya gönderildi ve [[açık uzayın boşluğuna]] çıplak bırakıldı. Dünya'ya döndüklerinde çoğu hayattaydı, hatta üreyebildiler."
+    },
+    {
+      "title": "SIRRI NE?",
+      "body": "Tehlike anında bedenlerindeki suyun neredeyse tamamını boşaltıp 'tun' denen kuru bir hâle geçerler. Metabolizmaları [[neredeyse tamamen durur]], yaşam sanki duraklar."
+    },
+    {
+      "title": "NE KADAR DAYANIKLI?",
+      "body": "Bu hâldeyken dondurucu soğuğa, kaynama noktasının üstündeki ısıya ve yoğun radyasyona dayanabilirler. Bazıları yıllarca bu şekilde beklemeyi başarır."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Milimetrenin onda biri kadar bir canlı, gezegendeki en sert koşullara göğüs geriyor. Doğanın dayanıklılık sınırlarını hiç bu kadar düşünmüş müydün?"
+    }
+  ],
+  "caption": "Gözle zor görülen, minicik bir canlı düşün: suyu azalınca kendini neredeyse tamamen 'kapatabiliyor' ve bu hâldeyken uzayın boşluğuna bile dayanabiliyor. Tardigradlar (su ayıları) bilim insanlarının en çok şaşırdığı canlılardan biri çünkü hayatta kalma stratejileri sandığımızın çok ötesinde.\n\nBu küçük canlılar bize şunu hatırlatıyor: Hayat, en imkânsız görünen koşullarda bile bir yol bulabiliyor. 🌱\n\nSence hayatta kalma konusunda bizi asıl şaşırtan, güç mü yoksa dayanıklılık mı?",
+  "hashtags": [
+    "#bilim",
+    "#doğa",
+    "#tardigrad",
+    "#suayısı",
+    "#uzay",
+    "#biyoloji",
+    "#şaşırtıcıbilgiler",
+    "#meraklizihin",
+    "#bilimseldünyalar",
+    "#hayvanlaralemi"
+  ],
+  "source": "Jönsson, K.I. et al. (2008), Current Biology; ESA TARDIS Deneyi (2007)",
+  "slot": "ogle",
+  "verify_notes": []
+}
