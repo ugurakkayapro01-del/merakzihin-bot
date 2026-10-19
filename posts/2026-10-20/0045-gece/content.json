@@ -1,0 +1,43 @@
+{
+  "topic_key": "ruyada-tat-koku-eksikligi",
+  "category": "uyku",
+  "headline": "Rüyanda hiç [[tat]] aldın mı?",
+  "subline": "Beynin gece bazı duyularını neredeyse hiç açmıyor.",
+  "slides": [
+    {
+      "title": "GÖZLEM",
+      "body": "Bir rüyayı hatırladığında aklında neredeyse hep görüntüler ve sesler vardır. Ama bir tat ya da koku hatırladığın oldu mu hiç? Çoğu insan için cevap [[hayır]]."
+    },
+    {
+      "title": "NEDEN?",
+      "body": "REM uykusunda görme ve işitmeyle ilgili beyin bölgeleri oldukça aktifken, koku ve tat almayla ilişkili bölgeler aynı yoğunlukta çalışmıyor. Beynin gecedeki önceliği görsel bir dünya kurmak."
+    },
+    {
+      "title": "ARAŞTIRMA",
+      "body": "Rüya içeriği üzerine yapılan çalışmalarda katılımcıların yalnızca çok küçük bir kısmı rüyasında tat ya da koku bildirmiş. Dokunma da benzer şekilde ender rastlanan bir rüya deneyimi."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Son hatırladığın rüyanı düşün. İçinde gerçekten bir tat, bir koku var mıydı — yoksa sadece gördüklerin mi aklında kaldı?"
+    }
+  ],
+  "caption": "Rüyalarını hatırlamaya çalıştığında genelde bir sahne, bir ses, bir his gelir aklına. Ama bir yemeğin tadını ya da bir kokunun varlığını hatırladığın oldu mu hiç? 🌙\n\nBeyin uyurken bile eşit davranmıyor; bazı duyusal sistemleri diğerlerinden çok daha fazla devreye sokuyor. Bu yüzden rüyalar çoğunlukla görsel ve işitsel bir dünya, tat ve koku ise neredeyse hiç yok.\n\nBu küçük fark bile gece zihninin ne kadar seçici çalıştığını gösteriyor. Sen hiç rüyanda bir tat ya da koku hatırlıyor musun?",
+  "hashtags": [
+    "#psikoloji",
+    "#uyku",
+    "#ruyalar",
+    "#beyin",
+    "#rem",
+    "#norobilimi",
+    "#zihin",
+    "#merakzihin",
+    "#bilim",
+    "#uykubilimi"
+  ],
+  "source": "Rüya içerik analizi çalışmaları (Schredl ve ark.); Hobson, REM uykusu nörobiyolojisi araştırmaları",
+  "slot": "gece",
+  "verify_notes": [
+    "Hashtag'de yazım hatası var: '#noroblimi' yerine '#norobilimi' olmalı.",
+    "'Beynin gece önceliği görsel dünya kurmak' cümlesi dil bilgisi açısından eksik; 'Beynin gecedeki önceliği görsel bir dünya kurmak' şeklinde düzeltilmeli."
+  ]
+}
