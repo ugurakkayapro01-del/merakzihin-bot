@@ -1,0 +1,40 @@
+{
+  "topic_key": "zevk-birlestirme-aliskanlik-motivasyonu",
+  "category": "davranis",
+  "headline": "Sevdiğin Şeyi [[Tuzak]] Olarak Kullan",
+  "subline": "Bir araştırma, motivasyonu nasıl kandırdığını gösteriyor",
+  "slides": [
+    {
+      "title": "SORUN",
+      "body": "Sabahları spora başlamak ya da yeni bir alışkanlığı sürdürmek çoğu zaman zor gelir. İrade tek başına yetmez, çünkü beyin anlık hazzı ister, uzun vadeli faydayı değil."
+    },
+    {
+      "title": "YÖNTEM",
+      "body": "Davranış bilimci Katherine Milkman'ın bulgusuna göre, sevdiğin bir şeyi istemediğin bir alışkanlıkla birleştirmek işe yarıyor. Buna [[zevk birleştirme]] deniyor: o keyfi yalnızca o alışkanlığı yaparken kendine tanımak."
+    },
+    {
+      "title": "KANIT",
+      "body": "Bir araştırmada, yalnızca spor salonundayken heyecanlı bir romanı dinleyebilen katılımcılar, salona gitme sıklığını belirgin biçimde artırdı. Beyin, alışkanlığı sıkıcı bir görev değil, beklenen bir ödülün kapısı gibi görmeye başladı."
+    },
+    {
+      "title": "PEKİ YA SEN",
+      "body": "Sevdiğin hangi şeyi, ertelediğin bir alışkanlığa kilitleyebilirsin? Belki sevdiğin müziği sadece yürüyüşte dinlemek ya da en sevdiğin kahveyi yalnızca çalışma masasında içmek yeterli olabilir."
+    }
+  ],
+  "caption": "Sabahları bazı şeyleri yapmak neden bu kadar zor geliyor? Çünkü beynimiz kısa vadeli hazzı, uzun vadeli faydaya tercih ediyor.\n\nDavranış bilimci Katherine Milkman'ın araştırması basit ama etkili bir çözüm sunuyor: sevdiğin bir şeyi, yapmak istemediğin bir alışkanlıkla birleştirmek. Spor salonunda sadece merak ettiğin bir diziyi izlemek ya da yürüyüşte en sevdiğin çalma listesini dinlemek gibi.\n\nBu küçük değişiklik, beynin alışkanlığı bir ödül kaynağına dönüştürmesini sağlıyor. 🧠\n\nSen hangi alışkanlığını, sevdiğin bir şeyle eşleştirebilirsin?",
+  "hashtags": [
+    "#psikoloji",
+    "#davranışbilimi",
+    "#alışkanlık",
+    "#motivasyon",
+    "#sabahrutini",
+    "#özdisiplin",
+    "#merakzihin",
+    "#kişiselgelişim",
+    "#zihin",
+    "#biliminsanı"
+  ],
+  "source": "Milkman, Minson & Volpp (2014), Management Science – 'Holding the Hunger Games Hostage at the Gym'",
+  "slot": "sabah",
+  "verify_notes": []
+}
