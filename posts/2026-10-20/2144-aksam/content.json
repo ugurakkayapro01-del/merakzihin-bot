@@ -1,0 +1,40 @@
+{
+  "topic_key": "halo-etkisi-ilk-izlenim",
+  "category": "psikoloji",
+  "headline": "Güzel İnsanlar Neden [[Daha İyi]] Sanılır?",
+  "subline": "Tek bir özellik tüm algını değiştirebilir",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Birinde fark ettiğin tek bir olumlu özellik, örneğin gülümsemesi ya da görünüşü, zihninin o kişiyle ilgili diğer tüm yargılarını da renklendirir. Buna [[halo etkisi]] denir."
+    },
+    {
+      "title": "ÖRNEK",
+      "body": "Araştırmalarda çekici bulunan kişiler aynı zamanda daha zeki, daha dürüst, hatta daha başarılı olarak değerlendirilir. Oysa görünüşle bu özellikler arasında gerçek bir bağ yoktur."
+    },
+    {
+      "title": "NASIL?",
+      "body": "Beyin her insanı baştan sona analiz etmek yerine kısayol kullanır. Güçlü tek bir izlenim oluştuğunda, bilmediğin tüm boşlukları da [[o izlenimin rengiyle]] doldurur."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bugün tanıştığın biri hakkındaki fikrin, gerçekten onu tanıdığın için mi yoksa ilk birkaç saniyedeki tek bir izlenim yüzünden mi oluştu, bir düşün."
+    }
+  ],
+  "caption": "Bir insanla tanıştığın ilk birkaç saniyede zihnin aslında onun hakkında çoktan bir hikâye yazmaya başlamış oluyor. Tek bir güzel gülümseme ya da kendinden emin bir ses tonu, o kişiyi zeki, dürüst, hatta başarılı biri olarak görmene yetebiliyor. 🧠\n\nBu o kadar güçlü bir etki ki mülakatlardan mahkeme kararlarına kadar birçok alanda fark ediliyor. Oysa görünüş ya da ilk hâl, karakterle ilgili neredeyse hiçbir şey söylemiyor.\n\nPeki sen son zamanlarda birine, sadece ilk izlenimine bakarak hak etmediği kadar olumlu (ya da olumsuz) bir pay biçtin mi?",
+  "hashtags": [
+    "#psikoloji",
+    "#sosyalpsikoloji",
+    "#haloetkisi",
+    "#ilkizlenim",
+    "#onyargi",
+    "#zihin",
+    "#davranis",
+    "#merakzihin",
+    "#biliyormusun",
+    "#insanpsikolojisi"
+  ],
+  "source": "Thorndike, 1920 (halo effect üzerine ilk çalışma); Nisbett & Wilson, 1977 ve sonraki sosyal psikoloji replikasyonları; Myers, Social Psychology ders kitabı",
+  "slot": "aksam",
+  "verify_notes": []
+}
