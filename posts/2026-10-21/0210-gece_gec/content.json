@@ -1,0 +1,40 @@
+{
+  "topic_key": "yildiz-tozu-insan-atomlari",
+  "category": "uzay",
+  "headline": "Bedenindeki atomlar [[yıldızlardan]] geldi",
+  "subline": "Vücudun, patlayan yıldızların mirası",
+  "slides": [
+    {
+      "title": "NASIL?",
+      "body": "Evrenin ilk anlarında sadece hidrojen ve helyum vardı. Karbon, oksijen, demir gibi ağır elementler yıldızların çekirdeğinde, [[milyonlarca yıl]] süren nükleer tepkimelerle oluştu."
+    },
+    {
+      "title": "PATLAMA",
+      "body": "Bir yıldız ömrünün sonunda patladığında, içinde ürettiği elementleri uzaya saçar. Bu element bulutları zamanla yeni yıldızları, gezegenleri ve... seni oluşturdu."
+    },
+    {
+      "title": "GERÇEK PAY",
+      "body": "Vücudundaki oksijen, karbon, kalsiyum, demir atomlarının neredeyse tamamı, Güneş'ten çok daha eski yıldızların çekirdeğinde üretildi. Yani sen, kelimenin tam anlamıyla [[yıldız tozusun]]."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bir dahaki sefere gökyüzüne baktığında, oradaki ışığın sadece uzak olmadığını, aynı zamanda seninle aynı kaynaktan geldiğini hatırla. Nasıl hissettiriyor?"
+    }
+  ],
+  "caption": "Evrenin başlangıcında sadece hidrojen ve helyum vardı. Bugün bildiğimiz karbon, oksijen, demir gibi elementlerin hepsi, yıldızların içinde milyonlarca yıl süren nükleer tepkimelerle ortaya çıktı. ✨\n\nBir yıldız öldüğünde, ürettiği bu elementleri uzaya savurur. O element bulutları yeni yıldızları, gezegenleri ve sonunda seni oluşturdu.\n\nYani vücudundaki her atom, bir zamanlar bir yıldızın kalbinde doğdu. Sen de dahil, etrafındaki her şey yıldız tozundan yapılmış.\n\nBunu bilmek, gökyüzüne bakışını nasıl değiştiriyor? 🌌",
+  "hashtags": [
+    "#uzay",
+    "#bilim",
+    "#astrofizik",
+    "#evren",
+    "#merakzihin",
+    "#yildiztozu",
+    "#nasa",
+    "#kozmoloji",
+    "#zihinacan",
+    "#bilimgercekleri"
+  ],
+  "source": "B2FH (Burbidge, Burbidge, Fowler, Hoyle, 1957) nükleosentez teorisi; NASA Astrophysics Division yıldız evrimi araştırmaları",
+  "slot": "gece_gec",
+  "verify_notes": []
+}
