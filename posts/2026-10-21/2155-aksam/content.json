@@ -1,0 +1,40 @@
+{
+  "topic_key": "dogrulama-yanliligi-sosyal-psikoloji",
+  "category": "psikoloji",
+  "headline": "Zihnin sana hep [[haklı]] çıkarır",
+  "subline": "Aradığın kanıtı neden hep bulursun?",
+  "slides": [
+    {
+      "title": "NEDİR?",
+      "body": "Bir şeye inandığında zihnin, o inancı [[doğrulayan]] bilgileri fark eder; çelişen bilgileri ise kolayca gözden kaçırır. Buna doğrulama yanlılığı denir."
+    },
+    {
+      "title": "NEDEN OLUR?",
+      "body": "Beyin, her bilgiyi sıfırdan sorgulamak yerine mevcut inançla uyumlu olanı seçmeyi tercih eder. Bu, enerji tasarrufu sağlar ama gerçeği çarpıtabilir."
+    },
+    {
+      "title": "İLİŞKİLERDE",
+      "body": "Birinin seni sevmediğini düşünüyorsan, kayıtsız her davranışını kanıt sayarsın; sıcak davranışlarını ise fark etmezsin bile. Zihin, inancını haklı çıkaracak sahneyi seçer."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Son tartışmanı düşün: Karşındakini gerçekten anlamaya mı çalıştın, yoksa haklı çıkacağın cümleleri mi aradın?"
+    }
+  ],
+  "caption": "Bir fikre inandığında zihnin tarafsız bir hakem gibi davranmaz; aksine o fikri destekleyecek delilleri toplayan bir avukata dönüşür. 🧠\n\nBu yüzden aynı olayı iki kişi tamamen farklı yorumlayabilir, aynı mesajı iki farklı anlamda okuyabiliriz. Doğrulama yanlılığı, gerçeği değil rahatlığı seçer.\n\nİlişkilerde, tartışmalarda, hatta haberleri okurken bile bu eğilim devrede. Peki sen en son ne zaman, inandığın bir şeyin yanlış olabileceğini ciddiye aldın?",
+  "hashtags": [
+    "#psikoloji",
+    "#sosyalpsikoloji",
+    "#dogrulamayanlisi",
+    "#bilisselyanilgi",
+    "#merakzihin",
+    "#zihin",
+    "#iliskiler",
+    "#farkindalik",
+    "#davranis",
+    "#ozfarkindalik"
+  ],
+  "source": "Nickerson, R. S. (1998). Confirmation Bias: A Ubiquitous Phenomenon in Many Guises. Review of General Psychology.",
+  "slot": "aksam",
+  "verify_notes": []
+}
