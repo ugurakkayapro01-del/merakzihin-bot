@@ -1,0 +1,42 @@
+{
+  "topic_key": "beyin-agri-receptorsuz",
+  "category": "beyin",
+  "headline": "Beynin hiç [[acı]] hissetmez",
+  "subline": "Peki o zaman baş ağrısı nereden geliyor?",
+  "slides": [
+    {
+      "title": "ŞAŞIRTICI GERÇEK",
+      "body": "Beyninde acı algılayan tek bir sinir ucu bile yok. Beyin cerrahları bazı ameliyatlarda hastayı bilinçli tutup doğrudan beyin dokusuna dokunur; hasta [[hiçbir şey]] hissetmez."
+    },
+    {
+      "title": "PEKİ BAŞ AĞRISI?",
+      "body": "Hissettiğin o zonklama aslında beynin kendisinden değil, onu saran zarlardan, kan damarlarından ve kafatasındaki kaslardan gelir. Beyin sessiz kalır, çevresi konuşur."
+    },
+    {
+      "title": "NEDEN BÖYLE?",
+      "body": "Çünkü vücuttaki tüm acı sinyallerini zaten işleyen merkez beynin kendisi. Acıyı [[üreten]] organın kendi kendine acı duymasına gerek kalmıyor."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bir dahaki baş ağrında, acıyan şeyin aslında beynin değil onu çevreleyen dokular olduğunu hatırla. Bedenin sana tam olarak ne anlatmaya çalışıyor?"
+    }
+  ],
+  "caption": "Beynin, seni dünyadaki her acıyı hissettiren organ olmasına rağmen kendi başına acı duyamıyor. Çünkü acıyı algılayan reseptörler orada yok.\n\nBu yüzden beyin cerrahları bazı beyin ameliyatlarını hasta tamamen uyanıkken yapabiliyor; kişi konuşuyor, hatta gülüyor olabilir. Baş ağrın ise aslında beynin çevresindeki zarlardan ve damarlardan geliyor.\n\nVücudun seni bazen çok ustaca kandırıyor, değil mi? 🧠",
+  "hashtags": [
+    "#beyin",
+    "#norobilim",
+    "#biyoloji",
+    "#insanvucudu",
+    "#saglikbilgisi",
+    "#bilimgercekleri",
+    "#merakzihin",
+    "#sasirtici",
+    "#bunubilmiyordum",
+    "#zihin"
+  ],
+  "source": "Johns Hopkins Medicine; National Institute of Neurological Disorders and Stroke (NINDS) — uyanık beyin cerrahisi literatürü",
+  "slot": "ogle",
+  "verify_notes": [
+    "\"Nöroşirürjiyen\" kelimesi Türkçede pek kullanılmıyor; \"beyin cerrahı\" veya \"nöroşirürji uzmanı\" daha doğru ve anlaşılır bir terim."
+  ]
+}
