@@ -1,0 +1,44 @@
+{
+  "topic_key": "parcali-uyku-tarihi-iki-uyku",
+  "category": "tarih",
+  "headline": "İnsanlar Eskiden Gecede [[İki Kez]] Uyurdu",
+  "subline": "Kesintisiz 8 saat uyku, sandığından çok daha yeni bir alışkanlık",
+  "slides": [
+    {
+      "title": "BELGE",
+      "body": "Tarihçi A. Roger Ekirch, sanayi devrimi öncesi mektup ve günlüklerde tekrar eden bir ifade bulmuş: [[\"birinci uyku\"]] ve \"ikinci uyku\". İnsanlar geceyi tek parça değil, iki parça hâlinde uyuyormuş."
+    },
+    {
+      "title": "ARADA NE OLURDU?",
+      "body": "Gece yarısı uyanılan bu bir-iki saatlik aralığa [[\"uyanıklık saati\"]] deniyordu. İnsanlar bu sürede dua eder, komşuyu ziyaret eder, eşiyle vakit geçirir ya da sadece sessizce yatakta düşünürdü."
+    },
+    {
+      "title": "NEDEN DEĞİŞTİ?",
+      "body": "Yapay aydınlatma yaygınlaşınca geceler kısaldı, uyku tek bloğa sıkıştı. Bugün bildiğimiz [[\"kesintisiz 8 saat\"]] normu, büyük ölçüde elektrik ışığının bir sonucu olabilir; tamamen biyolojik bir zorunluluk olmayabilir."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Gece ortasında uyanıp bir süre uyuyamadığında kendini bozuk mu hissediyorsun? Belki de bedenin, unuttuğun çok eski bir ritme geri dönmeye çalışıyordur."
+    }
+  ],
+  "caption": "Gece 3'te uyanıp bir türlü uyuyamadığın oldu mu? Belki sorun sende değil; belki bedenin, elektrik ışığından çok daha eski bir ritmi hatırlıyordur.\n\nTarihçi A. Roger Ekirch'in bulduğu yüzlerce tarihi belgeye göre, sanayi öncesi insanlar geceyi iki parçaya bölerdi: bir uyku, ortada uyanık bir saat, sonra ikinci uyku. Bu ara, sohbetin, düşüncenin, hatta mahremiyetin zamanıydı.\n\nBugünkü \"kesintisiz uyumalısın\" kuralı aslında yapay ışığın getirdiği oldukça yeni bir alışkanlık. Yani gece ortasında uyanmak, belki de düşündüğün kadar \"anormal\" değil.\n\nSen hiç gece ortasında uyanıp saatlerce düşüncelere daldığın oldu mu? 🌙",
+  "hashtags": [
+    "#uyku",
+    "#tarih",
+    "#merakzihin",
+    "#psikoloji",
+    "#gece",
+    "#uykudüzeni",
+    "#bilim",
+    "#ilginçbilgiler",
+    "#zihin",
+    "#uykubilimi"
+  ],
+  "source": "A. Roger Ekirch, 'At Day's Close: Night in Times Past' (Virginia Tech, tarihsel uyku araştırması)",
+  "slot": "gece",
+  "verify_notes": [
+    "Üçüncü slaytta JSON içinde kaçış karakteri hatası var: 'kesintisiz 8 saat'\\]] → düzeltilmesi gerekiyor.",
+    "İkinci slaytta 'sevişir' ifadesi Instagram için gereğinden fazla açık/hassas bir kelime; daha nötr bir ifadeyle değiştirilmesi uygun olur.",
+    "'Biyolojik değil, büyük ölçüde elektrik ışığının bir sonucu' ifadesi gerçek bilimsel tartışmayı aşırı kesinleştiriyor; bazı araştırmacılar bu ritmin kısmen biyolojik temelleri olabileceğini savunuyor. Küçük bir yumuşatma uygundur."
+  ]
+}
