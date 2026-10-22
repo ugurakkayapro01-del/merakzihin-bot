@@ -1,0 +1,43 @@
+{
+  "topic_key": "cerceveleme-etkisi-karar-verme",
+  "category": "davranis",
+  "headline": "Aynı haber, [[iki farklı]] karar yaratır",
+  "subline": "Nasıl söylendiği, neyin söylendiği kadar etkili",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Zihin, bilgiyi değerlendirirken kelimelerin çerçevesine çok duyarlıdır. '%90 başarılı' ile '%10 başarısız' aynı şeyi anlatır ama beyninde [[farklı bir his]] uyandırır."
+    },
+    {
+      "title": "DENEY",
+      "body": "Kahneman ve Tversky'nin klasik çalışmasında, aynı tıbbi seçenek insanlara 'hayatta kalma oranı' ya da 'ölüm oranı' olarak sunuldu. Sonuç aynı olsa da, [[tercihler tamamen değişti]]."
+    },
+    {
+      "title": "GÜNLÜK HAYAT",
+      "body": "Bir ürün '%95 yağsız' yazdığında, '%5 yağ içerir' yazana göre çok daha çekici görünür. İçerik birebir aynı, değişen tek şey [[sunuluş biçimi]]."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bir sonraki kararını verirken, bilginin sana nasıl sunulduğuna değil, gerçekte ne olduğuna bakmayı dene. Çerçeve değişse de gerçek [[aynı kalır]]."
+    }
+  ],
+  "caption": "Bazen bir karar aslında hiç değişmez, sadece anlatılış şekli değişir. Ama beynimiz o küçük kelime farkına inanılmaz derecede duyarlıdır.\n\nBir doktorun 'bu ameliyattan sağ çıkma ihtimaliniz %90' demesiyle 'ölüm riski %10' demesi istatistiksel olarak tamamen aynı şeydir. Yine de çoğu insan birincisini duyduğunda çok daha rahat hisseder. 🧠\n\nReklamlardan haberlere, günlük konuşmalardan iş tekliflerine kadar her yerde bu çerçeveleme etkisiyle karşılaşırsın. Fark etmeden kaç kararını, sadece sunuluş biçimi yüzünden değiştirdiğini hiç düşündün mü?",
+  "hashtags": [
+    "#psikoloji",
+    "#sosyalpsikoloji",
+    "#kararverme",
+    "#bilişselyanılgı",
+    "#merakzihin",
+    "#davranış",
+    "#zihin",
+    "#kahneman",
+    "#ikna",
+    "#farkındalık"
+  ],
+  "source": "Tversky & Kahneman, 'The Framing of Decisions and the Psychology of Choice', Science, 1981",
+  "slot": "aksam",
+  "verify_notes": [
+    "'#karaverme' hashtag'inde yazım hatası var, 'kararverme' olmalı.",
+    "'Zihnin bilgiyi değerlendirirken...duyarlıdır' cümlesinde özne-ek uyumsuzluğu var, 'Zihin, bilgiyi değerlendirirken...duyarlıdır' şeklinde düzeltilmeli."
+  ]
+}
