@@ -1,0 +1,42 @@
+{
+  "topic_key": "nazal-dongu-burun-sirayla-calisma",
+  "category": "vucut",
+  "headline": "Tek Burun Deliğin [[Şu An]] Çalışıyor",
+  "subline": "İkisi birden hiçbir zaman aynı anda tam açık olmaz",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Burnundaki kan damarları sırayla şişip büzülür. Bu döngüye [[nazal döngü]] denir ve ortalama her 2-4 saatte bir taraf değiştirir."
+    },
+    {
+      "title": "NASIL?",
+      "body": "Otonom sinir sistemi bu dengeyi arka planda yönetir. Bir delik havayı daha çok alıp ısıtıp nemlendirirken, diğeri kısmen dinlenmeye geçer."
+    },
+    {
+      "title": "FARKINDA MISIN?",
+      "body": "Toplam hava akışın hep aynı kaldığı için bunu genelde hiç fark etmezsin. Soğuk algınlığında hissettiğin [[tek taraflı tıkanıklık]] çoğu zaman bu döngünün abartılı halidir."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Şimdi bir parmağınla bir deliğini kapat, nefes al. Hangisi daha rahat? Birkaç saat sonra aynı şeyi dene, cevap değişmiş olabilir."
+    }
+  ],
+  "caption": "Burnun aslında hiç fark etmeden sürekli bir iş bölümü yapıyor. İki delik asla tam eşit çalışmıyor; biri öne çıkarken diğeri sessizce görev değiştiriyor. 👃\n\nBu küçük döngü yüzyıl önce fark edilmiş, bugün kulak burun boğaz araştırmalarında hâlâ incelenen gerçek bir fizyolojik olay.\n\nSen hiç tek tarafının tıkalı hissettiğini fark ettin mi? Hangi deliğin şu an daha açık, dene ve yaz 👇",
+  "hashtags": [
+    "#biyoloji",
+    "#vucut",
+    "#insanvucudu",
+    "#bilimilginc",
+    "#merakzihin",
+    "#saglik",
+    "#fizyoloji",
+    "#bunubilmiyordum",
+    "#bedenin",
+    "#ilginçbilgiler"
+  ],
+  "source": "Nazal döngü (nasal cycle) fizyolojisi; Kayser'in 1895 tanımı ve sonrasında yapılan otolaringoloji çalışmaları (PubMed, Journal of Otolaryngology literatürü)",
+  "slot": "ogle",
+  "verify_notes": [
+    "\"Otonom sinir sistemin\" ifadesinde iyelik eki hatası var; doğrusu \"Otonom sinir sistemi\" olmalı."
+  ]
+}
