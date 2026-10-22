@@ -1,0 +1,40 @@
+{
+  "topic_key": "neandertal-dna-modern-insan",
+  "category": "tarih",
+  "headline": "Sende hâlâ [[Neandertal]] yaşıyor",
+  "subline": "Yok olmuş bir tür, genlerinle hayatta kaldı",
+  "slides": [
+    {
+      "title": "NASIL?",
+      "body": "Yaklaşık 60 bin yıl önce Afrika'dan çıkan Homo sapiens, Avrupa ve Asya'da Neandertallerle karşılaştı. İki tür birbirine [[karıştı]], çocukları oldu."
+    },
+    {
+      "title": "KANIT",
+      "body": "Fosil kemiklerden çıkarılan eski DNA, modern insan genomuyla karşılaştırıldı. Afrika dışındaki insanların genomunun ortalama [[%1-2'si]] hâlâ Neandertal kökenli."
+    },
+    {
+      "title": "ETKİSİ",
+      "body": "Bu genler bağışıklık tepkisi, deri yapısı, saç rengi gibi özelliklerde iz bırakıyor. Hatta bazı hastalıklara yatkınlık bile bu mirastan geliyor."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Bu cümleyi şu an okuyan beynin, on binlerce yıl önce yok olmuş bir türden parçalar taşıyor olabilir. Geçmiş, sandığından çok daha [[yakın]]."
+    }
+  ],
+  "caption": "Neandertaller yaklaşık 40 bin yıl önce yeryüzünden silindi. Ama tamamen yok olmadılar. Bilim insanları eski kemiklerden DNA çıkarıp bugünün insanlarıyla karşılaştırdığında şaşırtıcı bir şey buldu: Afrika dışındaki hemen her insanın genomunda küçük ama gerçek bir Neandertal izi var.\n\nBu, iki ayrı insan türünün binlerce yıl önce aynı topraklarda yaşadığının, hatta aile kurduğunun kanıtı. Sen bu satırları okurken taşıdığın genlerin bir kısmı, belki de yüz binlerce yıllık bir yolculuğun sonunda sana ulaştı.\n\nTarih kitaplarında okuduğun 'yok olmuş türler' aslında tamamen gitmemiş olabilir mi? 🧬",
+  "hashtags": [
+    "#tarih",
+    "#bilim",
+    "#genetik",
+    "#neandertal",
+    "#insanlıktarihi",
+    "#merakzihin",
+    "#evrim",
+    "#dna",
+    "#antropoloji",
+    "#bilimilgi"
+  ],
+  "source": "Svante Pääbo ve ekibi, Max Planck Institute for Evolutionary Anthropology; Nature/Science genom dizileme çalışmaları (2010-sonrası)",
+  "slot": "gece_gec",
+  "verify_notes": []
+}
