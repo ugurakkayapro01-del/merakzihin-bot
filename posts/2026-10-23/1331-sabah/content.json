@@ -1,0 +1,42 @@
+{
+  "topic_key": "sabah-hareketi-odak-artisi",
+  "category": "davranis",
+  "headline": "Güne [[hareketle]] başlamak zihnini değiştirir",
+  "subline": "On dakikalık yürüyüş bile odağını yükseltebilir",
+  "slides": [
+    {
+      "title": "NEDEN?",
+      "body": "Kısa süreli hareket, beyne giden kan akışını artırır. Araştırmalar, tek seferlik egzersizin bile dikkat ve çalışma belleğini [[geçici olarak]] güçlendirdiğini gösteriyor."
+    },
+    {
+      "title": "NASIL?",
+      "body": "Hareket ettiğinde beyninde norepinefrin ve dopamin gibi uyanıklıkla ilişkili kimyasallar artar. Bu da seni zihinsel olarak toparlanmış ve göreve hazır hissettirir."
+    },
+    {
+      "title": "NE KADAR?",
+      "body": "Saatlerce spor gerekmiyor. Yapılan çalışmalarda, orta tempoda [[10-20 dakikalık]] bir hareketin bile ölçülebilir bir odak artışı sağladığı görülmüş."
+    },
+    {
+      "title": "PEKİ YA SEN?",
+      "body": "Sabah ilk saatinde bedenini biraz hareket ettirdiğinde, zihninin nasıl değiştiğini hiç fark ettin mi?"
+    }
+  ],
+  "caption": "Sabah kahvesi kadar basit bir şey daha var: hareket. Beynin, sen daha güne başlamadan uyanıklık kimyasallarını devreye sokuyor; ama bunun için tetiği sen çekmelisin.\n\nBuradaki önemli nokta şu: etkiyi görmek için saatlerce spor salonunda vakit geçirmene gerek yok. Kısa bir yürüyüş, birkaç esneme hareketi bile zihnine 'hazır ol' sinyali gönderiyor.\n\nSen sabahları hareket ediyor musun, yoksa doğrudan ekrana mı uzanıyorsun? 👇",
+  "hashtags": [
+    "#psikoloji",
+    "#merakzihin",
+    "#sabahrutini",
+    "#odak",
+    "#motivasyon",
+    "#beyinsagligi",
+    "#aliskanlik",
+    "#uretkenlik",
+    "#biliminsanlari",
+    "#zihin"
+  ],
+  "source": "Chang, Labban, Gapin & Etnier (2012), Brain Research meta-analizi; akut egzersiz ve bilişsel performans üzerine NIH destekli araştırmalar",
+  "slot": "sabah",
+  "verify_notes": [
+    "Küçük bir anlatım bozukluğu: 'Bu da zihnini toparlanmış ve göreve hazır hissettirir' cümlesinde özne-nesne uyumu zayıf, düzeltildi."
+  ]
+}
